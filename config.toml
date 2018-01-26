@@ -7,7 +7,7 @@ paginate = 7
 canonifyurls = true
 
 [permalinks]
-  post = "/:year/:month/:slug/"
+  post = "/:year/:month/:day/:slug/"
 
 [taxonomies]
   tag = "tags"
@@ -15,12 +15,13 @@ canonifyurls = true
   archive = "archives"
 
 [author]
-  name = "Firstname Lastname"
-  bio = "Super bio with markdown support **COOL**"
+  name = "Les Éthers Fertiles"
+  bio = "travailler ensemble et virvre ensemble dans la dignité et le respect"
   job = "Your job title"
  location = "France"
- gravatarEmail = "thibaud.lepretre@gmail.com"
- picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
+ gravatarEmail = "habib.belaribi@lesethersfertiles.coop"
+ picture = "/images/profile.png"
+ googlePlus = "+HabibBelaribi"
 
 [[menu.main]]
   weight = 1
@@ -74,15 +75,16 @@ canonifyurls = true
   url = "/index.xml"
 
 [params]
+ dateFormat = "22 Janvier 2018"
  syntaxHighlighter = "highlight.js"
   clearReading = true
   hierarchicalCategories = true
   description = "Hugo tranquilpeak theme demo"
   sidebarBehavior = 1
   coverImage = "cover.jpg"
-  imageGallery = true
+imageGallery = true
   thumbnailImage = true
-  thumbnailImagePosition = "bottom"
+  thumbnailImagePosition = "right"
   autoThumbnailImage = true
 
 [[params.sharingOptions]]
@@ -101,6 +103,6 @@ canonifyurls = true
     url = "https://plus.google.com/share?url=%s"
 
   [params.header.rightLink]
-    class = ""
-    icon = ""
-url = "/#about"
+    class = "open-algolia-search"
+    icon = "search"
+url = "/#search"
