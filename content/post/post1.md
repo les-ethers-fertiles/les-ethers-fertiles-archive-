@@ -7,12 +7,12 @@ keywords:
 - javascript
 - hexo
 clearReading: true
-thumbnailImage: ether.jpg
+thumbnailImage: ethers.jpg
 thumbnailImagePosition: left
 autoThumbnailImage: yes
 metaAlignment: center
 coverImage: Example.jpg
-coverCaption: "A beautiful sunrise"
+coverCaption: "Nous nous connect-âmes"
 coverMeta: out
 coverSize: full
 comments: true

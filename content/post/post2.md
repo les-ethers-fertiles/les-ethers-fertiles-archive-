@@ -1,7 +1,25 @@
 ---
-title: "Les tables GrOndes"
-date: 2018-01-21T21:01:16+01:00
+title: "Les Tables GrOndes"
+date: 2018-02-01
 draft: false
+disqusIdentifier: fdsF34ff34
+keywords:
+- javascript
+- hexo
+clearReading: true
+thumbnailImage: table-ronde.jpeg
+thumbnailImagePosition: left
+autoThumbnailImage: yes
+metaAlignment: center
+coverImage: table-ronde.jpeg
+coverCaption: "Chevaliers de la table rooonde, venez voiiir si..."
+coverMeta: out
+coverSize: full
+comments: true
+showTags: true
+showPagination: true
+showSocial: true
+showDate: true
 ---
 
 ![tables grOndes](table ronde.jpeg)

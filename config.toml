@@ -16,12 +16,11 @@ canonifyurls = true
 
 [author]
   name = "Les Éthers Fertiles"
-  bio = "travailler ensemble et virvre ensemble dans la dignité et le respect"
-  job = "Your job title"
- location = "France"
+  bio = "Travailler, Apprendre, Vivre libres ensemble à l'Ère des Internets"
+  job = "COOPérative"
+ location = "Bordeaux surtout, Londres et Madrid un peu"
  gravatarEmail = "habib.belaribi@lesethersfertiles.coop"
- picture = "/images/profile.png"
- googlePlus = "+HabibBelaribi"
+ picture = "/images/profile.jpg"
 
 [[menu.main]]
   weight = 1
