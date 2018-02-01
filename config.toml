@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://dazzling-franklin-789afc.netlify.com/"
 languageCode = "fr-fr"
 title = "Les Éthers Fertiles"
 theme = "hugo-tranquilpeak-theme"

@@ -3,22 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/archives/</loc>
+    <loc>https://dazzling-franklin-789afc.netlify.com/2018/02/01/les-%C3%A9thers-fertiles/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dazzling-franklin-789afc.netlify.com/archives/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://dazzling-franklin-789afc.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://dazzling-franklin-789afc.netlify.com/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://dazzling-franklin-789afc.netlify.com/post/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dazzling-franklin-789afc.netlify.com/tags/</loc>
     <priority>0</priority>
   </url>
   
