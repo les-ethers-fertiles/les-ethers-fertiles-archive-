@@ -7,7 +7,7 @@ paginate = 7
 canonifyurls = true
 
 [permalinks]
-  post = "/:year/:month/:day/:slug/"
+  post = "/:year/:month/:day/"
 
 [taxonomies]
   tag = "tags"
@@ -16,40 +16,35 @@ canonifyurls = true
 
 [author]
   name = "Les Éthers Fertiles"
-  bio = "Travailler, Apprendre, Vivre libres ensemble à l'Ère des Internets"
+  bio = "Travailler, Apprendre, Vivre   libres ensemble à l'Ère des Internets"
   job = "COOPérative"
- location = "Bordeaux surtout, Londres et Madrid un peu"
+ location = "Bordeaux surtout, Londres et Madrid aussi"
  gravatarEmail = "habib.belaribi@lesethersfertiles.coop"
  picture = "/images/profile.jpg"
 
 [[menu.main]]
   weight = 1
   identifier = "home"
-  name = "Home"
+  name = "Dernièrement"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
   url = "/"
 [[menu.main]]
   weight = 2
   identifier = "categories"
-  name = "Categories"
+  name = "Nos Thèmes"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
   url = "/categories"
 [[menu.main]]
   weight = 3
   identifier = "tags"
-  name = "Tags"
+  name = "Des Mots"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
   url = "/tags"
-[[menu.main]]
-  weight = 4
-  identifier = "archives"
-  name = "Archives"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
-  url = "/archives"
+
 [[menu.main]]
   weight = 5
   identifier = "about"
-  name = "About"
+  name = "Concernant Nous"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
   url = "/#about"
 
@@ -58,13 +53,8 @@ canonifyurls = true
   identifier = "github"
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
-  url = "https://github.com/kakawait"
-[[menu.links]]
-  weight = 2
-  identifier = "stackoverflow"
-  name = "Stack Overflow"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-stack-overflow\"></i>"
-  url = "https://stackoverflow.com/users/636472/kakawait"
+  url = "https://github.com/habsinn"
+
 
 [[menu.misc]]
   weight = 1
@@ -81,7 +71,7 @@ canonifyurls = true
   description = "Hugo tranquilpeak theme demo"
   sidebarBehavior = 1
   coverImage = "cover.jpg"
-imageGallery = true
+  imageGallery = true
   thumbnailImage = true
   thumbnailImagePosition = "right"
   autoThumbnailImage = true
@@ -100,8 +90,3 @@ imageGallery = true
     name = "Google+"
     icon = "fa-google-plus"
     url = "https://plus.google.com/share?url=%s"
-
-  [params.header.rightLink]
-    class = "open-algolia-search"
-    icon = "search"
-url = "/#search"
