@@ -1,7 +1,7 @@
 ---
-title: "Les Tables GrOndes"
-date: 2018-02-01
-draft: false
+title: "Post2"
+date: 2018-02-02T18:18:06+01:00
+draft: true
 disqusIdentifier: fdsF34ff34
 keywords:
 - javascript
@@ -12,7 +12,7 @@ thumbnailImagePosition: left
 autoThumbnailImage: yes
 metaAlignment: center
 coverImage: table-ronde.jpeg
-coverCaption: "Chevaliers de la table rooonde, venez voiiir si..."
+coverCaption: "Nous nous connect-âmes"
 coverMeta: out
 coverSize: full
 comments: true
@@ -21,6 +21,7 @@ showPagination: true
 showSocial: true
 showDate: true
 ---
+
 
 ![tables grOndes](table ronde.jpeg)
 Les Tables GrOndes
