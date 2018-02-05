@@ -2,37 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Les Éthers Fertiles</title>
-    <link>https://dazzling-franklin-789afc.netlify.com/post/</link>
+    <link>https://les-ethers-fertiles.blog/post/</link>
     <description>Recent content in Posts on Les Éthers Fertiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://dazzling-franklin-789afc.netlify.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://les-ethers-fertiles.blog/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Les Tables GrOndes</title>
-      <link>https://dazzling-franklin-789afc.netlify.com/2018/02/01/les-tables-grondes/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://dazzling-franklin-789afc.netlify.com/2018/02/01/les-tables-grondes/</guid>
-      <description>Les Tables GrOndes
-Dans l’agitée ambiance de l’Ouest, en cet an +21 de l’Ère des Internets,
-On entend parfois des cordées de voix crier en choeur:
-“tout change à toute allure!”
-“les nouvelles technologies sont en train de nous dépasser!”
-”climat, intelligence artificielle, crise financi1ere: il faut sauver le monde avant qu’il ne soit trop tard!”
-“il est déjà trop tard de toute facon.”.
-Comme si c’était la première fois dans l’histoire des humains.</description>
-    </item>
     
     <item>
       <title>Les Éthers Fertiles</title>
-      <link>https://dazzling-franklin-789afc.netlify.com/2018/02/01/les-%C3%A9thers-fertiles/</link>
+      <link>https://les-ethers-fertiles.blog/2018/02/01/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://dazzling-franklin-789afc.netlify.com/2018/02/01/les-%C3%A9thers-fertiles/</guid>
+      <guid>https://les-ethers-fertiles.blog/2018/02/01/</guid>
       <description>Comme ces Terres dont on foule le sol,
 Et dont on ressent l&amp;rsquo;abondance latente,
 Si seulement on en saisit l&amp;rsquo;écologie,
