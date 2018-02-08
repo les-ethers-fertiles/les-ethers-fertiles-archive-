@@ -1,5 +1,5 @@
 ---
-title: "Les Éthers Fertiles"
+title: "Les Éthers Fertiles [idealoj #0]"
 date: 2018-02-01
 draft: false
 disqusIdentifier: fdsF34ff34
@@ -12,7 +12,7 @@ thumbnailImagePosition: left
 autoThumbnailImage: yes
 metaAlignment: center
 coverImage: Example.jpg
-coverCaption: "Nous nous connect-âmes"
+coverCaption: "Et nous nous connect-âmes"
 coverMeta: out
 coverSize: full
 comments: true
