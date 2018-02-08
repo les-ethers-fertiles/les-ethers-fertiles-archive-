@@ -1,4 +1,4 @@
-baseURL = "https://les-ethers-fertiles.blog"
+baseURL = "http://hopeful-wozniak-eb01ed.netlify.com"
 languageCode = "fr-fr"
 title = "Les Éthers Fertiles"
 theme = "hugo-tranquilpeak-theme"

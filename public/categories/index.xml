@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Les Éthers Fertiles</title>
-    <link>https://les-ethers-fertiles.blog/categories/</link>
+    <link>http://hopeful-wozniak-eb01ed.netlify.com/categories/</link>
     <description>Recent content in Categories on Les Éthers Fertiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     
-	<atom:link href="https://les-ethers-fertiles.blog/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://hopeful-wozniak-eb01ed.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

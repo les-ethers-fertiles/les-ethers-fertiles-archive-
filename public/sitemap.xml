@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://les-ethers-fertiles.blog/2018/02/01/</loc>
+    <loc>http://hopeful-wozniak-eb01ed.netlify.com/2018/02/01/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://les-ethers-fertiles.blog/archives/</loc>
+    <loc>http://hopeful-wozniak-eb01ed.netlify.com/archives/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://les-ethers-fertiles.blog/categories/</loc>
+    <loc>http://hopeful-wozniak-eb01ed.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://les-ethers-fertiles.blog/</loc>
-    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://les-ethers-fertiles.blog/post/</loc>
+    <loc>http://hopeful-wozniak-eb01ed.netlify.com/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://les-ethers-fertiles.blog/tags/</loc>
+    <loc>http://hopeful-wozniak-eb01ed.netlify.com/post/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hopeful-wozniak-eb01ed.netlify.com/tags/</loc>
     <priority>0</priority>
   </url>
   
