@@ -22,10 +22,6 @@ showSocial: true
 showDate: true
 ---
 
-
-![tables grOndes](table ronde.jpeg)
-Les Tables GrOndes
-
 Dans l’agitée ambiance de l’Ouest, en cet an +21 de l’Ère des Internets,   
 On entend parfois des cordées de voix crier en choeur:   
 “tout change à toute allure!”   

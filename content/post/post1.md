@@ -161,9 +161,10 @@ De notre dignité assumée.
         
 Les Éthers Fertiles  
 Les Éthérien.ne.s  
-Nous****.  
-   
+Nous****.     
      
+    
+      
 - (*) *au sens de logiciel libre ou de licence libre (portée légale)*
 - (**) *http://lasindias.blog*
 - (***) *"à chacun selon ses besoins, de chacun selon ses capacités" est la devise des Icariens d'Étienne Cabet au milieu du 19ème siècle*
