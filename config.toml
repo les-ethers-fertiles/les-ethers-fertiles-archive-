@@ -7,7 +7,7 @@ paginate = 7
 canonifyurls = true
 
 [permalinks]
-  post = "/:year/:month/:day/"
+  post = "/:day/:month/:year"
 
 [taxonomies]
   tag = "tags"
@@ -18,9 +18,9 @@ canonifyurls = true
   name = "Les Éthers Fertiles"
   bio = "Travailler, Apprendre, Vivre   libres ensemble à l'Ère des Internets"
   job = "COOPérative"
- location = "Bordeaux surtout, Londres et Madrid aussi"
- gravatarEmail = "habib.belaribi@lesethersfertiles.coop"
- picture = "/images/profile.jpg"
+  location = "Bordeaux surtout, Londres et Madrid aussi"
+  gravatarEmail = "habib.belaribi@gmail.com"
+  picture = ""
 
 [[menu.main]]
   weight = 1
@@ -31,20 +31,20 @@ canonifyurls = true
 [[menu.main]]
   weight = 2
   identifier = "categories"
-  name = "Nos Thèmes"
+  name = "Les Thèmes"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
   url = "/categories"
 [[menu.main]]
   weight = 3
   identifier = "tags"
-  name = "Des Mots"
+  name = "Mots"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
   url = "/tags"
 
 [[menu.main]]
   weight = 5
   identifier = "about"
-  name = "Concernant Nous"
+  name = "Concernant"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
   url = "/#about"
 
@@ -64,8 +64,7 @@ canonifyurls = true
   url = "/index.xml"
 
 [params]
- dateFormat = "22 Janvier 2018"
- syntaxHighlighter = "highlight.js"
+  syntaxHighlighter = "highlight.js"
   clearReading = true
   hierarchicalCategories = true
   description = "Hugo tranquilpeak theme demo"
