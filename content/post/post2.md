@@ -1,7 +1,7 @@
 ---
 title: "Post2"
 date: 2018-02-02T18:18:06+01:00
-draft: true
+draft: false
 disqusIdentifier: fdsF34ff34
 keywords:
 - javascript
