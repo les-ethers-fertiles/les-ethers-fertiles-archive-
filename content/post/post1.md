@@ -1,5 +1,5 @@
 ---
-title: "Les Éthers Fertiles [idealoj #0]"
+title: "Les Éthers Fertiles [paroloj #0]"
 date: 2018-02-01
 draft: false
 disqusIdentifier: fdsF34ff34

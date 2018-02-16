@@ -1,0 +1,839 @@
+
+
+  
+    
+  
+
+
+  
+
+
+
+
+  
+
+
+  
+
+<!DOCTYPE html>
+<html lang="fr-fr">
+  <head>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="generator" content="Hugo 0.32.3 with theme Tranquilpeak 0.4.3-BETA">
+    <title>Le mode de production pair-à-pair [tradukto #111]</title>
+    <meta name="author" content="Les Éthers Fertiles">
+    <meta name="keywords" content="javascript, hexo">
+
+    <link rel="icon" href="http://hopeful-wozniak-eb01ed.netlify.com/favicon.png">
+    
+
+    
+    <meta name="description" content="UN MANIFESTE INDIANO - 2012 &ldquo;Ce livre a originellement été écrit en espéranto et a ensuite été traduit en espagnol et en anglais, il est également téléchargeable au format ePub. Nous t&rsquo;invitons à télécharger tous nos livres dans le répertoire de la bibliothèque de Las Indias .&rdquo;
+Traduction de l&rsquo;espagnol au français par Habib. À noter qu&rsquo;au moment de cette traduction, les auteurs de l&rsquo;oeuvre ont déjà écrit une nouvelle version de leur manifeste disponible sur ce joli lien .">
+    <meta property="og:description" content="UN MANIFESTE INDIANO - 2012 &ldquo;Ce livre a originellement été écrit en espéranto et a ensuite été traduit en espagnol et en anglais, il est également téléchargeable au format ePub. Nous t&rsquo;invitons à télécharger tous nos livres dans le répertoire de la bibliothèque de Las Indias .&rdquo;
+Traduction de l&rsquo;espagnol au français par Habib. À noter qu&rsquo;au moment de cette traduction, les auteurs de l&rsquo;oeuvre ont déjà écrit une nouvelle version de leur manifeste disponible sur ce joli lien .">
+    <meta property="og:type" content="blog">
+    <meta property="og:title" content="Le mode de production pair-à-pair [tradukto #111]">
+    <meta property="og:url" content="/16/02/2018/">
+    <meta property="og:site_name" content="Les Éthers Fertiles">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Les Éthers Fertiles">
+    <meta name="twitter:description" content="UN MANIFESTE INDIANO - 2012 &ldquo;Ce livre a originellement été écrit en espéranto et a ensuite été traduit en espagnol et en anglais, il est également téléchargeable au format ePub. Nous t&rsquo;invitons à télécharger tous nos livres dans le répertoire de la bibliothèque de Las Indias .&rdquo;
+Traduction de l&rsquo;espagnol au français par Habib. À noter qu&rsquo;au moment de cette traduction, les auteurs de l&rsquo;oeuvre ont déjà écrit une nouvelle version de leur manifeste disponible sur ce joli lien .">
+    
+    
+
+    
+    
+
+    
+      <meta property="og:image" content="//www.gravatar.com/avatar/86fd36e4bf5b732901d1caebd1950ec8?s=640">
+    
+
+    
+      <meta property="og:image" content="http://hopeful-wozniak-eb01ed.netlify.com/paul_baran.jpg">
+    
+    
+      <meta property="og:image" content="http://hopeful-wozniak-eb01ed.netlify.com/paul_baran.jpg">
+    
+    
+
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.min.css" integrity="sha256-vuXZ9LGmmwtjqFX1F+EKin1ThZMub58gKULUyf0qECk=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/helpers/jquery.fancybox-thumbs.min.css" integrity="sha256-SEa4XYAHihTcEP1f5gARTB2K26Uk8PsndQYHQC1f4jU=" crossorigin="anonymous" />
+    
+    
+    <link rel="stylesheet" href="http://hopeful-wozniak-eb01ed.netlify.com/css/style-jsjn0006wyhpyzivf6yceb31gvpjatbcs3qzjvlumobfnugccvobqwxnnaj8.min.css" />
+    
+    
+
+    
+      
+    
+    
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="4">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="http://hopeful-wozniak-eb01ed.netlify.com/">Les Éthers Fertiles</a>
+  </div>
+  
+</header>
+
+      <nav id="sidebar" data-behavior="4">
+  <div class="sidebar-container">
+    
+      <div class="sidebar-profile">
+        <a href="http://hopeful-wozniak-eb01ed.netlify.com/#about">
+          <img class="sidebar-profile-picture" src="//www.gravatar.com/avatar/86fd36e4bf5b732901d1caebd1950ec8?s=110" alt="" />
+        </a>
+        <h4 class="sidebar-profile-name">Les Éthers Fertiles</h4>
+        
+          <h5 class="sidebar-profile-bio">Travailler, Apprendre, Vivre   libres ensemble à l&rsquo;Ère des Internets</h5>
+        
+      </div>
+    
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://hopeful-wozniak-eb01ed.netlify.com/">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-home"></i>
+      
+      <span class="sidebar-button-desc">Dernièrement</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://hopeful-wozniak-eb01ed.netlify.com/categories">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-bookmark"></i>
+      
+      <span class="sidebar-button-desc">Les Thèmes</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://hopeful-wozniak-eb01ed.netlify.com/tags">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-tags"></i>
+      
+      <span class="sidebar-button-desc">Mots</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://hopeful-wozniak-eb01ed.netlify.com/#about">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-question"></i>
+      
+      <span class="sidebar-button-desc">Concernant</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://github.com/habsinn" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-github"></i>
+      
+      <span class="sidebar-button-desc">GitHub</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://hopeful-wozniak-eb01ed.netlify.com/index.xml">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-rss"></i>
+      
+      <span class="sidebar-button-desc">RSS</span>
+    </a>
+  </li>
+
+
+    </ul>
+  </div>
+</nav>
+
+      
+  <div class="post-header-cover
+              text-center
+              post-header-cover--full"
+       style="background-image:url('paul_baran.jpg')"
+       data-behavior="4">
+    
+  </div>
+
+
+      <div id="main" data-behavior="4"
+        class="hasCover
+               hasCoverMetaOut
+               hasCoverCaption">
+        <article class="post" itemscope itemType="http://schema.org/BlogPosting">
+          
+            <span class="post-header-cover-caption caption">Derrière toute architecture informationnelle se cache un système de pouvoirs.</span>
+          
+          
+            <div class="post-header main-content-wrap text-center">
+  
+    <h1 class="post-title" itemprop="headline">
+      Le mode de production pair-à-pair [tradukto #111]
+    </h1>
+  
+  
+  <div class="postShorten-meta post-meta">
+    
+    
+  </div>
+
+</div>
+          
+          <div class="post-content markdown" itemprop="articleBody">
+            <div class="main-content-wrap">
+              
+
+<h2 id="un-manifeste-indiano-2012">UN MANIFESTE INDIANO - 2012</h2>
+
+<p>&ldquo;Ce livre a originellement été écrit en espéranto et a ensuite été traduit en espagnol et en anglais, il est également téléchargeable au format ePub.
+Nous t&rsquo;invitons à télécharger tous nos livres <a href="lasindias.blog/libros">dans le répertoire de la bibliothèque de Las Indias</a> .&rdquo;</p>
+
+<p><img src="https://lasindias.coop/wp-content/themes/grupo-lasindias/grupo.png" alt="Emblême de Las Indias" /></p>
+
+<p>Traduction de l&rsquo;espagnol au français par Habib.
+À noter qu&rsquo;au moment de cette traduction, les auteurs de l&rsquo;oeuvre ont déjà écrit une nouvelle version de leur manifeste disponible  <a href="https://lasindias.blog/files/2017/08/Le-Manifeste-Communard.pdf">sur ce joli lien</a>  . Toutefois, le choix de traduire le premier manifeste est délibéré , afin de voir l&rsquo;évolution dans le discours tenu par Las Indias après 5 années d&rsquo;une recentralisation toujours plus forte et toujours plus sophistiquée des Internets.</p>
+
+<p><em>Pour toute remarque ou question au traducteur:</em><br />
+<em>Mail: habib@les-ethers-fertiles.coop</em><br />
+<em>Twitter: @habsinn</em></p>
+
+<h2 id="sommaire">SOMMAIRE</h2>
+
+<p><strong>O. Informations générales sur ce livre</strong><br />
+• Remerciements</p>
+
+<p>• Ce que tu peux faire avec ce livre</p>
+
+<p>• Ce que tu ne peux pas faire avec ce livre</p>
+
+<p><strong>1. Introduction</strong></p>
+
+<p><strong>2. L’émergence des réseaux distribués de communication</strong></p>
+
+<p><strong>3. Le drame des échelles et la crise mondiale</strong></p>
+
+<p><strong>4. Le nouveau modèle du logiciel libre et l’éthique hacker du travail</strong></p>
+
+<p><strong>5. La nouvelle révolution industrielle</strong></p>
+
+<p><strong>6. Le système d’apprentissage pair-à-pair et la production de savoir théorique</strong></p>
+
+<p><strong>7. Le reflet politique: commun, confédéralisme asymétrique et subsidiarité</strong></p>
+
+<p><strong>8. Conclusions</strong></p>
+
+<p><strong>9. Notes</strong></p>
+
+<h2 id="0-informations-générales-sur-ce-livre">0.INFORMATIONS GÉNÉRALES SUR CE LIVRE</h2>
+
+<p><strong>Remerciements</strong></p>
+
+<p>Ce livre a été originalement écrit en Espéranto et traduit ensuite en
+Espagnol par Natalia Fernandez, Maria Rodriguez et David de Ugarte,
+membres du Groupe Coopératif Las Indias qui le remettent dans le
+domaine public.</p>
+
+<p>Sans le débat et la conversation entre les Indianos*, nos lecteurs et
+d&rsquo;importants théoriciens du monde entier commejuan Urrutia ou Kevin
+Carson, ce livre n&rsquo;aurait pas pu voir le jour. C&rsquo;est à eux tous que nous
+dédions ce travail.</p>
+
+<p><strong>Ce que tu peux faire avec ce livre</strong></p>
+
+<p>Tu peux, sans permis préalable des auteurs et éditeurs, le copier sous
+n&rsquo;importe quel format et par n&rsquo;importe quel moyen, reproduire
+partiellement ou totalement ses contenus, vendre des copies, utiliser ses
+contenus pour réaliser une œuvre dérivée et, en général, faire tout ce
+que tu pourrais faire avec une œuvre d&rsquo;un auteur qui l&rsquo;a remis dans le
+domaine public.</p>
+
+<p><strong>Ce que tu ne peux pas faire avec ce livre</strong></p>
+
+<p>Le passage d&rsquo;une œuvre dans le domaine public suppose la fin des droits
+économiques de l&rsquo;auteur sur celle-ci mais pas la fin des droits moraux
+qui demeurent inextinguibles. Tu ne peux t&rsquo;attribuer la titularité de
+l&rsquo;oeuvre, de manière totale ou partielle. Si tu cites le livre ou utilise une
+partie de celui-ci pour réaliser une nouvelle œuvre, tu dois citer les
+auteurs, le titre et l&rsquo;édition. Tu ne peux pas utiliser ce livre ou une partie
+de celui-ci pour insulter, injurier ou commettre des délits contre
+l&rsquo;honneur des personnes et, en général, tu ne peux pas l&rsquo;utiliser d&rsquo;une
+manière qui porte atteinte aux droits moraux des auteurs.</p>
+
+<h2 id="1-introduction">1.INTRODUCTION</h2>
+
+<p><img src="http://i68.tinypic.com/245ykjt.jpg" alt="Images du mouvement Occupy en octobre 2011" /></p>
+
+<p>La crise actuelle, la plus profonde et la plus grande de l&rsquo;histoire du
+capitalisme, a ouvert la discussion dans le monde entier sur ce qui, jour
+après jour, apparaît de manière toujours plus claire comme la
+destruction simultanée des deux principales institutions de la vie sociale
+et économique: l&rsquo;État et le marché. Jamais auparavant, dans la mémoire
+des générations présentes, le système économique n&rsquo;avait été si
+largement questionné.</p>
+
+<p>Par ailleurs, jamais auparavant les capacités techniques n&rsquo;avaient si
+élevées et, plus important encore , n&rsquo;avaient été aussi accessibles aux
+personnes et aux petites organisations. De fait, jamais auparavant un
+nombre si important de petites entreprises n&rsquo;avaient pris part au marché
+mondial. Des technologies de communication pair-à-pair presque
+gratuites leur ont permis de créer les plus grands réseaux commerciaux
+de l&rsquo;Histoire. L&rsquo;émergence du logiciel libre - qui représente à lui seul le
+plus grand transfert de valeur jamais reçu par la périphérie économique-
+leur a conféré un pouvoir d&rsquo;indépendance inespéré. Des millions de
+petites entreprises du monde entier, particulièrement en Asie, ont ainsi
+pu se coordonner entre elles et rendre leurs produits plus sophistiqués
+au moment précis où de nouveaux marchés se sont ouverts à elles. C&rsquo;est
+la &ldquo;globalisation des petits&rdquo;. Ce n&rsquo;est pas un phénomène marginal:
+jamais auparavant autant de personnes dans le monde n&rsquo;étaient sorties
+de la pauvreté.</p>
+
+<p>Si nous regardons de plus près ces deux tendances contraires, nous y
+trouverons d&rsquo;intéressantes contradictions: la crise trouve son origine
+dans les industries de grande échelle et c&rsquo;est de fait la plus grande
+d&rsquo;entre elles, l&rsquo;industrie financière, qui lui a servi de détonateur et a entraîné le processus. Cependant les nouvelles technologies émergentes
+sont à des échelles palpables, et à de grandes échelles: l&rsquo;industrie du
+logiciel libre ne se nourrit pas de grandes entreprises globales
+monopolistiques avec des réseaux mondiaux de filiales commerciales,
+mais d&rsquo;un nouveau &ldquo;commun de savoirs libres&rdquo; qui peut être téléchargé,
+et même vendu par n&rsquo;importe qui. Les relations relatives à la
+construction de ce nouveau commun ne possèdent pas de lieu de
+décision central ni de hiérarchie, mais se basent sur la libre concurrence
+des projets, selon des relations d&rsquo;égal à égal. Les entreprises de cette
+industrie ne gagnent pas leur réputation et leur revenu en créant de la
+rareté. Elles constituent leur nom sur des apports innovants au commun
+et leurs bénéfices naissent simplement de la vente d&rsquo;heures de travail.</p>
+
+<p>Le logiciel libre a été la première industrie basée sur un système
+complètement distinct de propriété et de production: le mode de
+production pair-à-pair. Plus avant, au milieu de la crise, apparaîtront de
+nouveaux outils, de l&rsquo;imprimante 3D aux méthodologies de design
+industriel, et de nouveaux secteurs exploreront de nouvelles branches
+des communs.</p>
+
+<p>L&rsquo;objectif de ce livre est de montrer comment la crise économique est,
+en réalité, la crise des grandes échelles, mais par-dessus tout, de
+montrer comment nous avons encore l&rsquo;opportunité d&rsquo;impulser le
+passage vers un nouveau mode de production qui se fonde sur une
+nouvelle forme coopérative de concurrence, une nouvelle éthique du
+travail et par-dessus tout, sur la construction d&rsquo;un nouveau commun, un
+bien d&rsquo;utilité publique du savoir ouvert à tous.</p>
+
+<h2 id="2-l-émergence-des-réseaux-distribués-de-communication">2.L’ÉMERGENCE DES RÉSEAUX DISTRIBUÉS DE COMMUNICATION</h2>
+
+<h4 id="derrière-toute-architecture-de-communication-se-cache-une-structure-de-pouvoir"><em>Derrière toute architecture de communication se cache une structure de pouvoir.</em></h4>
+
+<p>C&rsquo;est pour cela que les technologies de la communication sont
+intimement liées aux mouvements sociaux, aux structures estatales, et
+d&rsquo;autre part, limitent l&rsquo;ampleur des relations sociales de chaque époque
+(1).</p>
+
+<p>Le monde de la communication centralisée, le monde du courrier postal,
+définit la monarchie absolue et même la République jacobine née de la
+Révolution française: État centralisateur, journaux quotidiens issus de la
+capitale, soumission au pouvoir central et à son identité dans toutes les
+relations sociales. De fait, ce n&rsquo;est pas la Révolution française mais
+l&rsquo;expansion du télégraphe créé par Morse qui rendra possible les
+structures décentralisées qui caractérisent la démocratie représentative
+et les relations internationales: du système médiatique basée sur la
+relation entre agences internationale et journaux nationaux, à
+l&rsquo;organisation pyramidale basée sur des groupes locaux avec une
+structure de coordination régionale, nationale, et encore au-dessus
+internationale. Nous n&rsquo;exagérons en rien lorsque nous affirmons que le
+suffrage universel, le pluralisme - et également l&rsquo;entreprise
+multinationale et l&rsquo;impérialisme- n&rsquo;auraient pas été possibles sans
+l&rsquo;universalisation de la communication décentralisée.</p>
+
+<p><img src="https://lh5.googleusercontent.com/n4B11DVTtKd-HGKgKgxD5Ic388N8OeOC_j6m5hwFh_updogDjf64xKcohlnOHhFAVWRsGrn7R5a8bnH52YqMz6HLxPJiuWTyNZYhrj2jAvxKK3l_9768Bbof" alt="Typologie des réseaux de Paul Baran, 1964 - Réseau centralisé, réseau décentralisé, réseau distribué - " /></p>
+
+<h4 id="cependant-décentralisé-n-est-pas-distribué"><em>Cependant, &ldquo;décentralisé&rdquo; n&rsquo;est pas &ldquo;distribué&rdquo;.</em></h4>
+
+<p>Les structures décentralisées définissent des hiérarchies: plus on monte
+dans la pyramide informationnelle, plus on est indépendant pour
+accéder à l&rsquo;information et plus facilement on est en capacité de la
+diffuser par la suite. La communication entre les noeuds de base -ceux à
+qui appartient la majorité des personnes au sein des États, des partis ou
+des entreprises- dépend de ses représentants et de ses coordinateurs
+territoriaux, qui ont le pouvoir de filtrer et de décider quoi diffuser vers
+le bas de la pyramide et quoi envoyer vers le haut de celle-ci. Le monde
+décentralisé est dans chaque sous-réseau local et centralisé. C&rsquo;est
+seulement lorsqu&rsquo;est apparue la communication distribuée qu&rsquo;une
+nouvelle logique des relations sociales est devenue possible.</p>
+
+<p>Si l&rsquo;on extrait le nœud central d&rsquo;un réseau centralisé, le réseau lui-même
+disparaît. Si l&rsquo;on extrayait un des noeuds localement centralisateurs d&rsquo;un
+réseau décentralisé, alors ce dernier se casserait en divers sous-réseaux
+incapables de communiquer entre eux.</p>
+
+<p>Ce qui définit un réseau distribué en revanche, c&rsquo;est la possibilité
+d&rsquo;extraire n&rsquo;importe quel noeud sans casser la communication entre
+tous les autres, si bien qu&rsquo;aucun noeud n&rsquo;a la possibilité de filtrer les
+autres de manière unilatérale.</p>
+
+<h4 id="si-un-quelconque-noeud-centralisateur-produit-nécessairement-de-la-rareté-qu-elle-soit-obtenue-de-manière-démocratique-ou-de-manière-autoritaire-les-réseaux-distribués-eux-transforment-le-pluralisme-décentralisé-en-diversité-distribuée"><em>Si un quelconque noeud centralisateur produit nécessairement de la rareté - qu&rsquo;elle soit obtenue de manière démocratique ou de manière autoritaire-, les réseaux distribués, eux, transforment le pluralisme décentralisé en diversité distribuée.</em></h4>
+
+<p>La communication d&rsquo;égal à égal, de pair à pair, suit sa propre logique.</p>
+
+<p>Le premier effet des conséquences sociales d&rsquo;Internet est la naissance et
+la montée de la blogosphère, le premier moyen de communication
+distribué de l&rsquo;Histoire.</p>
+
+<p>Il n&rsquo;est un secret pour personne que les mouvements spontanés ayant eu
+lieu à Manille (2000), à Madrid (2004), en France (2005), à Athènes (2007)
+ou encore le &ldquo;printemps arabe&rdquo;, ont puisé leur origine dans la capacité
+de la blogosphère à promouvoir de nouveaux consensus sociaux. En
+outre, les activistes de grands mouvements démocratiques comme &ldquo;les
+révolutions de couleur&rdquo; dans les États ex-communistes, ont su profiter
+de la communication distribuée pour construire la nouvelle majorité
+sociale, y compris sans la liberté de la presse et sans la liberté
+d&rsquo;association.</p>
+
+<p>Cependant, bien que les conséquences politiques de la communication
+distribuée ont été les plus visibles, elles n&rsquo;étaient pas les seuls.</p>
+
+<p>Après la chute du mur de Berlin et l&rsquo;effondrement de l&rsquo;URSS, les entreprises de grande échelle en Occident ont mis la pression sur les
+gouvernements pour obtenir l&rsquo;ouverture des marchés extérieurs.
+Rapidement, elles ont trouvé des opportunités à l&rsquo;international en
+divisant leurs chaînes de production en de multiples entreprises
+autonomes de plus petites tailles. Ce phénomène fut nommé
+&ldquo;globalisation&rdquo; et généra des préoccupations au niveau global. Mais a eu
+lieu ensuite une évolution imprévue des entrepreneurs de la périphérie,
+évolution qui a changé l&rsquo;horizon du &ldquo;nouvel ordre mondial&rdquo;.</p>
+
+<p>En 1999, année au cours de laquelle les médias ont raconté au monde les
+manifestations massives du mouvement &ldquo;antiglobalisation&rdquo; à Seattle,
+apparaît le premier grand bazar en ligne chinois: Alibaba.com. C&rsquo;est
+seulement la première manifestation d&rsquo;un mouvement latent de grande
+ampleur. Rapidement, dans tous les secteurs, des réseaux globaux de
+commerçants et d&rsquo;industriels se sont rendus compte de la possibilité de
+se coordonner par eux-mêmes et de rentrer en compétition avec les
+grandes entreprises qui avaient accumulé jusqu&rsquo;alors la plus grande part
+de la valeur de la division internationale du travail. Se lance alors &ldquo;la
+globalisation des petits&rdquo;.</p>
+
+<p>Au même moment, au cours de la deuxième moitié des années 90, le
+&ldquo;mouvement hacker&rdquo; explose avec la croissance de l&rsquo;usage d&rsquo;Internet. Il
+change la donne en profondeur et très vite, sa première grande
+contribution voit le jour: Linux, et avec lui le monde du logiciel libre,
+devient la base de la première industrie pair-à-pair.</p>
+
+<p>Chapitres 3 à 8 à suivre..</p>
+
+<h2 id="9-notes">9.NOTES</h2>
+
+<p><em>(1) Voir «El poder de las redes» (&ldquo;le pouvoir des réseaux&rdquo;, David de Ugarte, 2005, diverses éditions en espagnol, galicien, portugais et anglais. Téléchargeable sur: <a href="https://lasindias.blog/el-poder-de-las-redes/">https://lasindias.blog/el-poder-de-las-redes/</a> .</em></p>
+
+<p><em>Indianos = membres du Groupe Coopératif: Las Indias Électronicas, actuellement basé à Madrid.</em></p>
+
+              
+            </div>
+          </div>
+          <div id="post-footer" class="post-footer main-content-wrap">
+            
+              
+            
+            
+  <div class="post-actions-wrap">
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--disabled">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml"></span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="http://hopeful-wozniak-eb01ed.netlify.com/02/02/2018/" data-tooltip="Les tables GrOndes [radio #00]">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr"></span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=http://hopeful-wozniak-eb01ed.netlify.com/16/02/2018/">
+              <i class="fa fa-facebook-official"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=http://hopeful-wozniak-eb01ed.netlify.com/16/02/2018/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=http://hopeful-wozniak-eb01ed.netlify.com/16/02/2018/">
+              <i class="fa fa-google-plus"></i>
+            </a>
+          </li>
+        
+      
+      
+        <li class="post-action">
+          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+            <i class="fa fa-comment-o"></i>
+          </a>
+        </li>
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  </div>
+
+
+            
+              
+                <div id="disqus_thread">
+  <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+              
+            
+          </div>
+        </article>
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2018 Les Éthers Fertiles. 
+  </span>
+</footer>
+
+      </div>
+      <div id="bottom-bar" class="post-bottom-bar" data-behavior="4">
+        
+  <div class="post-actions-wrap">
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--disabled">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml"></span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="http://hopeful-wozniak-eb01ed.netlify.com/02/02/2018/" data-tooltip="Les tables GrOndes [radio #00]">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr"></span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=http://hopeful-wozniak-eb01ed.netlify.com/16/02/2018/">
+              <i class="fa fa-facebook-official"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=http://hopeful-wozniak-eb01ed.netlify.com/16/02/2018/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=http://hopeful-wozniak-eb01ed.netlify.com/16/02/2018/">
+              <i class="fa fa-google-plus"></i>
+            </a>
+          </li>
+        
+      
+      
+        <li class="post-action">
+          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+            <i class="fa fa-comment-o"></i>
+          </a>
+        </li>
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  </div>
+
+
+      </div>
+      <div id="share-options-bar" class="share-options-bar" data-behavior="4">
+  <i id="btn-close-shareoptions" class="fa fa-close"></i>
+  <ul class="share-options">
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fhopeful-wozniak-eb01ed.netlify.com%2F16%2F02%2F2018%2F">
+          <i class="fa fa-facebook-official"></i><span>%!(EXTRA string=Facebook)</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=http%3A%2F%2Fhopeful-wozniak-eb01ed.netlify.com%2F16%2F02%2F2018%2F">
+          <i class="fa fa-twitter"></i><span>%!(EXTRA string=Twitter)</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://plus.google.com/share?url=http%3A%2F%2Fhopeful-wozniak-eb01ed.netlify.com%2F16%2F02%2F2018%2F">
+          <i class="fa fa-google-plus"></i><span>%!(EXTRA string=Google&#43;)</span>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+<div id="share-options-mask" class="share-options-mask"></div>
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-remove"></i>
+    </div>
+    
+      <img id="about-card-picture" src="//www.gravatar.com/avatar/86fd36e4bf5b732901d1caebd1950ec8?s=110" alt="" />
+    
+    <h4 id="about-card-name">Les Éthers Fertiles</h4>
+    
+      <div id="about-card-bio">Travailler, Apprendre, Vivre   libres ensemble à l&rsquo;Ère des Internets</div>
+    
+    
+      <div id="about-card-job">
+        <i class="fa fa-briefcase"></i>
+        <br/>
+        COOPérative
+      </div>
+    
+    
+      <div id="about-card-location">
+        <i class="fa fa-map-marker"></i>
+        <br/>
+        Bordeaux surtout, Londres et Madrid aussi
+      </div>
+    
+  </div>
+</div>
+
+    <div id="algolia-search-modal" class="modal-container">
+  <div class="modal">
+    <div class="modal-header">
+      <span class="close-button"><i class="fa fa-close"></i></span>
+      <a href="https://algolia.com" target="_blank" rel="noopener" class="searchby-algolia text-color-light link-unstyled">
+        <span class="searchby-algolia-text text-color-light text-small">by</span>
+        <img class="searchby-algolia-logo" src="https://www.algolia.com/static_assets/images/press/downloads/algolia-light.svg">
+      </a>
+      <i class="search-icon fa fa-search"></i>
+      <form id="algolia-search-form">
+        <input type="text" id="algolia-search-input" name="search"
+          class="form-control input--large search-input" placeholder="" />
+      </form>
+    </div>
+    <div class="modal-body">
+      <div class="no-result text-color-light text-center"></div>
+      <div class="results">
+        
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="http://hopeful-wozniak-eb01ed.netlify.com/16/02/2018/">
+                <h3 class="media-heading">Le mode de production pair-à-pair [tradukto #111]</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Feb 2, 2018
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">UN MANIFESTE INDIANO - 2012 &ldquo;Ce livre a originellement été écrit en espéranto et a ensuite été traduit en espagnol et en anglais, il est également téléchargeable au format ePub. Nous t&rsquo;invitons à télécharger tous nos livres dans le répertoire de la bibliothèque de Las Indias .&rdquo;
+Traduction de l&rsquo;espagnol au français par Habib. À noter qu&rsquo;au moment de cette traduction, les auteurs de l&rsquo;oeuvre ont déjà écrit une nouvelle version de leur manifeste disponible sur ce joli lien .</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="http://hopeful-wozniak-eb01ed.netlify.com/02/02/2018/">
+                <h3 class="media-heading">Les tables GrOndes [radio #00]</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Feb 2, 2018
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">Dans l’agitée ambiance de l’Ouest, en cet an +21 de l’Ère des Internets,
+On entend parfois des cordées de voix crier en choeur:
+“tout change à toute allure!”
+“les nouvelles technologies sont en train de nous dépasser!”
+”climat, intelligence artificielle, crise financi1ere: il faut sauver le monde avant qu’il ne soit trop tard!”
+“il est déjà trop tard de toute facon.”.
+Comme si c’était la première fois dans l’histoire des humains.</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="http://hopeful-wozniak-eb01ed.netlify.com/01/02/2018/">
+                <h3 class="media-heading">Les Éthers Fertiles [paroloj #0]</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Feb 2, 2018
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">Comme ces Terres dont on foule le sol,
+Et dont on ressent l&rsquo;abondance latente,
+Si seulement on en saisit l&rsquo;écologie,
+Si seulement on en perçoit les forces structurantes.
+La richesse qu&rsquo;on y produit
+- par le travail généreux sans être excessif,
+Persévérant en restant à l&rsquo;écoute -
+Semble alors éternelle.
+Pourvu qu&rsquo;on continue à saisir l&rsquo;évolution
+Des forces calmes qui restent,
+Pourvu qu&rsquo;on ne succombe pas à l&rsquo;illusion
+Des mirages agités qui passent.</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+      </div>
+    </div>
+    <div class="modal-footer">
+      <p class="results-count text-medium"
+         data-message-zero=""
+         data-message-one=""
+         data-message-other="">
+         3 posts found
+      </p>
+    </div>
+  </div>
+</div>
+    
+  
+    
+    <div id="cover" style="background-image:url('http://hopeful-wozniak-eb01ed.netlify.com/images/cover.jpg');"></div>
+  
+
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.7/js/jquery.fancybox.min.js" integrity="sha256-GEAnjcTqVP+vBp3SSc8bEDQqvWAZMiHyUSIorrWwH50=" crossorigin="anonymous"></script>
+
+
+<script src="http://hopeful-wozniak-eb01ed.netlify.com/js/script-qi9wbxp2ya2j6p7wx1i6tgavftewndznf4v0hy2gvivk1rxgc3lm7njqb6bz.min.js"></script>
+
+
+
+<script>
+$(document).ready(function() {
+  hljs.configure({ classPrefix: '', useBR: false });
+  $('pre.code-highlight > code, pre > code').each(function(i, block) {
+    if (!$(this).hasClass('codeblock')) {
+      $(this).addClass('codeblock');
+    }
+    hljs.highlightBlock(block);
+  });
+});
+</script>
+
+
+  
+    
+      <script>
+        var disqus_config = function () {
+          this.page.url = 'http:\/\/hopeful-wozniak-eb01ed.netlify.com\/16\/02\/2018\/';
+          
+            this.page.identifier = 'fdsF34ff34';
+          
+        };
+        (function() {
+          
+          
+          if (window.location.hostname == "localhost") {
+            return;
+          }
+          var d = document, s = d.createElement('script');
+          var disqus_shortname = 'hugo-tranquilpeak-theme';
+          s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+
+          s.setAttribute('data-timestamp', +new Date());
+          (d.head || d.body).appendChild(s);
+        })();
+      </script>
+    
+  
+
+
+
+    
+  </body>
+</html>
+
