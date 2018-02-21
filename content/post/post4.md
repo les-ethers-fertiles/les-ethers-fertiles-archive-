@@ -18,7 +18,7 @@ showSocial: true
 showDate: true
 ---
 
-Les Petites Lessons d'Habib Belaribi (PLH #1) *La communication Sociale*
+Les Petites Leçons d'Habib (PLH #1) *La communication Sociale*
 
 **3 Paradigmes en communication Sociale**
 
@@ -87,4 +87,4 @@ On veut faire des opérations de bouche à oreille d'égal à égal. Pas de rapp
 Nous souhaitons être cohérent avec nos valeurs, de l'éthique hacker et du librisme. Nous ne souhaitons pas alors activer les leviers de la publicité ou des relations publiques car elles procèdent à une logique de manipulation des masses.
 Nous souhaitons faire émerger des conversations authentiques et que la communication sociale soit un moyen d'une collaboration entre personnes se considérant égales.  
 
-écrit par *Sophie Saradjian* sophie.saradjian2@gmail.com
+écrit par *Sophie Saradjian*,  sophie.saradjian@aquilenet.fr
