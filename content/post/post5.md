@@ -11,8 +11,6 @@ thumbnailImage: datavisions.jpg
 thumbnailImagePosition: left
 autoThumbnailImage: yes
 metaAlignment: center
-coverImage:
-coverCaption: "Vu!"
 coverMeta: out
 coverSize: full
 comments: true
@@ -29,6 +27,9 @@ David, David, David, Pablo, Romain,
 Pierre, Sophie,     
 Alfonso, Armelle, Clément, Vincent.        
 
+
+![carte de la parole](http://payload507.cargocollective.com/1/21/691541/12449396/Carte-Parole-intervention-Salige-mars-2017_1250.png)
+*Île de la Parole, [Sentimentale Foule](http://www.sentimentalefoule.com/Cartes)*
 
 #### Les mots, les choses, et nous:
 
@@ -61,8 +62,7 @@ si ceci pour toi sonne trop hip-pie, hop!:
 
 
 
-Et bien sûr, 5min33s de sonorités Foucaldienne par l'auteur de ["Les Mots et les Choses"]
-[[embed url=https://www.youtube.com/watch?v=l4QDXdxnMzc]]
+Et bien sûr, 5min33s de sonorités Foucaldienne par l'auteur de ["Les Mots et les Choses"](https://www.youtube.com/watch?v=l4QDXdxnMzc)
 
 *
 
@@ -109,7 +109,7 @@ La *méthode* diffère de la publicité,
 mais sa *mesure* est proche:       
 “the good will which it has been able to create in the general public” (“la bonne volonté qu’elle a été capable de générer au sein du grand public”).     
 
-
+![photo extraite de la Grande Bouffe de Marco Ferreri](http://brussels.carpediem.cd/data/afisha/o/a5/f2/a5f20f14ae.jpg)
 Enfin la 3ème voie,    
 vieille comme le monde des humains, leurs onomatopées, et leurs dîners entre amis:        
 le **Bouche-à-oreille**.          
@@ -187,8 +187,7 @@ nous parait belle.**
 C’est pourquoi je vais retrouver mon ami [Clément](clementrenaud.com), afin de tenter de dessiner de nouvelles images qui nous permettent de nous voir libres ensemble au quotidien, au moyen de son outil libre et opensource https://topogram.io .
 -voir [tutoriel d’installation sur mon fed.wiki par ici](http://habib.outlandish.academy/view/welcome-visitors/view/voir-au-travers-des-yeux-automatiques)-.
 
-Île de la Parole, [Sentimentale Foule](http://www.sentimentalefoule.com/Cartes):
-![carte de la parole](http://payload507.cargocollective.com/1/21/691541/12449396/Carte-Parole-intervention-Salige-mars-2017_1250.png)
+
 
 Vous tenant au jus    
 des éventuelles belles vues,
