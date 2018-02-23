@@ -184,9 +184,10 @@ De fait,
 **la vision de faire partie d’îlots de fraternités transnationaux,    
 reliés au sein d’un archipel de production en pair-à-pair    
 nous parait belle.**    
-C’est pourquoi je vais retrouver mon ami [Clément](clementrenaud.com), afin de tenter de dessiner de nouvelles images qui nous permettent de nous voir libres ensemble au quotidien, au moyen de son outil libre et opensource https://topogram.io .
+C’est pourquoi je vais retrouver ces jours-ci à Lyon mon ami [Clément](clementrenaud.com), afin de tenter de dessiner de nouvelles images qui nous permettent de nous voir libres ensemble au quotidien, au moyen de [l'outil libre et opensource qu'il a créé: Topogram](topogram.io) .
 -voir [tutoriel d’installation sur mon fed.wiki par ici](http://habib.outlandish.academy/view/welcome-visitors/view/voir-au-travers-des-yeux-automatiques)-.
 
+![Topogram.io](http://topogram.io/img/Topogram-Network.png)
 
 
 Vous tenant au jus    
