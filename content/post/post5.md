@@ -7,12 +7,12 @@ keywords:
 - javascript
 - hexo
 clearReading: true
-thumbnailImage:
+thumbnailImage: datavisions.jpg
 thumbnailImagePosition: left
 autoThumbnailImage: yes
 metaAlignment: center
 coverImage:
-coverCaption: ""
+coverCaption: "Vu!"
 coverMeta: out
 coverSize: full
 comments: true
