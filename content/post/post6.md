@@ -1,7 +1,7 @@
 ---
 title: "Stratégie de vente [PLH #2]"
 date: 2018-02-23T15:21:48+01:00
-draft: false
+draft: true
 disqusIdentifier: fdsF34ff34
 keywords:
 - javascript
