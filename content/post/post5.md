@@ -1,5 +1,5 @@
 ---
-title: "DATA-VISIONS pour la Communication Sociale"
+title: "DATA-VISIONS pour la Communication Sociale [paroloj #01]"
 date: 2018-02-22T09:09:18+01:00
 draft: false
 disqusIdentifier: fdsF34ff34
@@ -19,13 +19,14 @@ showPagination: true
 showSocial: true
 showDate: false
 ---
-Montpellier, le 21 février 2018,
-
-À:
-Inès,        
-David, David, David, Pablo, Romain,    
-Pierre, Sophie,     
-Alfonso, Armelle, Clément, Vincent.        
+*Montpellier,*    
+*le 21 février 2018,*    
+    
+*En écho aux conversations sur les cartes, visualisations de données, et autres vues, avec*:
+*Inès,*        
+*David, David, Pablo, Romain,*    
+*Pierre, Sophie,*     
+*Alfonso, Armelle, Clément, Vincent.*        
 
 
 ![carte de la parole](http://payload507.cargocollective.com/1/21/691541/12449396/Carte-Parole-intervention-Salige-mars-2017_1250.png)
@@ -52,30 +53,34 @@ quand nous ressentons tous les deux ces choses, fortement, vitalement,
 Alors la communion existe,    
 et les mots deviennent complètement inutiles et vides.    
 Cette communion ne peut exister néanmoins sans une compréhension verbale mutuelle.”    
--J. Krishnamurti (Paris, Mai 1965)
+**-J. Krishnamurti (conférence à Paris, Mai 1965)**
 
 Ou encore,    
 si ceci pour toi sonne trop hip-pie, hop!:    
 ![Language is a bitch but...](http://wiki.pierregrangepraderas.com/images/thumb/9/9f/Language-is-a-bitch-1_2kpx.jpg/800px-Language-is-a-bitch-1_2kpx.jpg)
 
- -[Pierre Grangé-Praderas](http://www.pierregrangepraderas.com/2014/12/27/note-13-language-is-a-b/) (novembre 2014)    
+ **-[Pierre Grangé-Praderas](http://www.pierregrangepraderas.com/2014/12/27/note-13-language-is-a-b/) (novembre 2014)**    
 
-
-
-Et bien sûr, 5min33s de sonorités Foucaldienne par l'auteur de ["Les Mots et les Choses"](https://www.youtube.com/watch?v=l4QDXdxnMzc)
+Et enfin,    
+2 définitions
+**le Dialogue**:
+ "est un dispositif de génération de connaissance qui consiste en l'échange d'informations ou de connaissances entre pairs qui partent de la non remise en question d'un groupe pré-déterminé  de contextes, de valeurs et de significations. Pratiquement la totalité de l'échange de savoirs scientifiques est dialogue.  Le dialogue est la forme de développement de connaissances la plus fréquente au sein des communautés, mais lorsqu'il s'opère entre les pairs de communautés distinctes, il est en général l'imposition de certains contextes, de certaines significations sur d'autres. En ce sens, il s'oppose dans sa nature à la conversation, qui installe l'échange depuis la mise en question des contextes des deux parties.
+**la Conversation**:
+"est un dispositif de génération de connaissance entre pairs qui, au contraire du dialogue, part de la remise en question des contextes des deux parties. Comme le décrivent Vattimo et Zabala: *Dans l'échange conversationnel, la vérité ne se présuppose pas, mais elle reste  au contraire écartée depuis le début. Si bien qu'une conversation n'est jamais ce que nous avons nous-mêmes proposé de mener, mais une situation au cours de laquelle nous nous voyons immergés au fur et à mesure qu'elle se développe.*"
+**- traduction en espagnol de l'[Indianopedia](lasindias.blog) des madrilènes de Las Indias Electrónicas**
 
 *
 
 
-#### 3 paradigmes, 1 choix Éthérien:
+#### 3 paradigmes, 1 choix éthérien:
 
 Avant de parler de ce qui m'intéresse    
 côté utilité et enjeux de la datavisualisation,    
 -data-visions-,    
 d’abord une vue rapide de 3 paradigmes de **communication sociale** (1)    
 qui nous lient.     
-*[Une vue plus détaillée vous est contée par ici](http://www.les-ethers-fertiles.blog/21/02/2018/ )    
-à travers le regard neuf de Sophie!.*
+*[Des définitions plus détaillées sont visibles par ici](http://www.les-ethers-fertiles.blog/21/02/2018/)    
+sur notre Lexique Éthérien.*
 
 Quand on m’a parlé de Communication ces dernières années,    
 j’ai en fait souvent entendu blablater **Publicité**    
@@ -104,7 +109,7 @@ neveu de Freud qui a su affirmer sans détours vers 1928,
 [dans son ouvrage “Propaganda”](https://www.voltairenet.org/IMG/pdf/Bernays_Propaganda_in_english_.pdf):    
 “La propagande est le bras exécutif du gouvernement invisible”,   
 et même   
-“le mécanisme par lequel des idées sont disséminées à grande échelle est la propagande, au sens large d’un effort organisé pour répandre une croyance ou une doctrine particulière” à travers les **leaders d'opinion** d’une société.   
+“le mécanisme par lequel des idées sont disséminées à grande échelle est la propagande, au sens large d’un effort organisé pour répandre une croyance ou une doctrine particulière” à travers les **leaders d'opinion** installés d’une société.   
 La *méthode* diffère de la publicité,        
 mais sa *mesure* est proche:       
 “the good will which it has been able to create in the general public” (“la bonne volonté qu’elle a été capable de générer au sein du grand public”).     
@@ -115,26 +120,27 @@ vieille comme le monde des humains, leurs onomatopées, et leurs dîners entre a
 le **Bouche-à-oreille**.          
 C’est cette voie que nous choisissons    
 d’emprunter, de déblayer, de raffiner.    
-**En dehors des images libidinales répandues par les marques.    
-Au rythme des conversations authentiques tissées entre des individus tournés les uns vers l’autre.
+En dehors des images libidinales répandues par les marques.    
+Au rythme des **conversations authentiques** tissées entre des individus tournés les uns vers l’autre.
 Aux sons des noeuds parlants et des liens conversants
 qui forment un [réseau p2p de production](https://beauxhacks.org/index.php/2017/10/26/seminaire-dcdh-du-25-oct-17-compte-rendu/) d’histoires vraies.
-Dans l’émergence spontanée de contextes communs
-où l’on est libre ensemble.**
+Un réseau complexe de confiance qui se développe dans l’émergence volontaire de contextes communs
+où l’on est libre ensemble,
+où l'on internalise, sociabilise, externalise, combine des savoirs collectifs.**
 
  **
 
 #### Quelles data-visions pour le bouche-à-oreille?    
 
-Sur la 3ème voie,    
+**Sur cette 3ème voie**,    
 le sens de la mesure change forcément.    
-D'ailleurs, y cherche-t-on seulement à mesurer quelquechose?   
-Ou bien plutôt à voir ensemble les ""étincelles de vie dans l'obscurité de l’existence"?     
+D'ailleurs, y **cherche-t-on seulement à mesurer quelquechose?**   
+Ou bien plutôt à voir ensemble les "*étincelles de vie dans l'obscurité de l’existence*"?     
 
 Concrètement,    
-voici ci-dessous un extrait d’un de nos rapports impliquant de la datavisualisation sur un corpus de contenus conversationnels publiques liés aux 5 thèmes abordés au cours d’un cycle de conférence à Lille en Octobre dernier (6).       
+voici ci-dessous un extrait d’un de nos rapports impliquant de la datavisualisation sur un corpus de contenus informationnels et conversationnels publiques lié aux 5 thèmes  abordés au cours d’un cycle de conférence à Lille en Octobre dernier (6).       
 Dans ce cas particulier, nous voulions:    
-- d’une part inviter le client à écouter ce que les gens se racontent déjà sur ces 5 thèmes, en particulier les niches conversationnelles, les objets de controverse, les postures, et les silences dans la sphère publique;    
+- d’une part inviter notre client à écouter ce que les gens se racontent déjà sur ces 5 thèmes, en particulier les niches conversationnelles, les objets de controverse, les postures, et les silences dans la sphère publique;    
 - d’autre part encourager le client à inviter des contributeurs-narrateurs aux expériences et discours originaux pour qu'ils participent à des tables rondes et ateliers, ou encore qu'ils co-écrivent des articles personnels remis dans le domaine public au sein d’[un livret de contributeurs](https://www.responsible-economy.org/en/blog/127-news/924-2017-contributors-book) imprimé pour les participants à l’événement.   
 
 Un extrait du rapport:    
@@ -169,24 +175,24 @@ Et par ici [la recette pour produire de tels graphiques](https://github.com/mont
 
 Aujourd’hui, - chez les Éthers Fertiles - nous voulons voir plus loin dans l’invisible qui nous lie.
 Et plus précisément, je me demande:    
-**comment métamorphoser le sentiment de solitude aquoibonniste  en action collective qui donne envie de continuer à servir ses pairs?**              
+**comment métamorphoser le sentiment de solitude aquoibonniste  en action collective qui donne envie de continuer à servir ses pairs, à créer et produire avec eux?**              
 En effet,    
 je vois souvent comment tous les bâtisseurs de nouveaux contextes qui se regroupent et veulent avancer libres ensemble,
-se retrouvent tôt ou tard pris dans la chute libre d’un précipice invisible:    
+se retrouvent tôt ou tard décentrés, dans le vertige d'une sorte de fossé invisible:    
 celui qui sépare la terre ferme de la communauté réelle des pairs dont on connait les peurs, les besoins et les rêves,    
-aux terrains éthérés de la communauté imaginaire de ceux dont on en connait pas le visage, mais qui pourtant “sont officiellement des membres de la communauté [imaginaire]”.    
+aux terrains éthérés de la communauté imaginaire de ceux dont on ne connait ni le visage ni les noms, mais qui pourtant “sont officiellement des membres de la communauté [imaginaire]”.    
 “Nous sommes passés de 6 à 70 collaborateurs et de 1 ville à 8 villes en 1 an!... Et nous n’avons plus de vision commune” .    
 “Quand je parle des collaborateurs internationaux de notre entreprise à ceux que je vois chaque jour dans nos bureaux, ils me reprochent de trop prendre en compte ces autres qui travaillent d’ailleurs. Et quand je retrouve les autres chez eux, ils me disent que je parle trop depuis le point de vue francais...!”
-“L’esprit n’est plus le même maintenant qu’on est beaucoup par rapport aux débuts de l'association, oú l’on se connaissait tous de vue.”   
+“L’esprit n’est plus le même maintenant qu’on est beaucoup par rapport aux débuts de l'association, où l’on se connaissait tous assez bien.”   
 Des paroles diverses, mais des ressentis proches?   
 
 De fait,    
-**la vision de faire partie d’îlots de fraternités transnationaux,    
+**la vision de faire partie d’îlots de fraternité transnationaux,    
 reliés au sein d’un archipel de production en pair-à-pair    
-nous parait belle.**    
+nous parait belle et apaisante.**    
 C’est pourquoi je vais retrouver ces jours-ci à Lyon mon ami [Clément](clementrenaud.com), afin de tenter de dessiner de nouvelles images qui nous aident     
-à nous voir libres ensemble au quotidien,     
-à tisser la confiance avec ces pairs dont on ne peut pas voir le visage chaque jour parce qu'ils sont loin, 
+à *nous voir ensemble* au quotidien,     
+à tisser la confiance avec ces pairs dont on ne peut pas voir le visage chaque jour parce qu'ils sont loin,
 à avoir envie de se raconter et ainsi nourrir les contextes communs qui peuvent faire émerger des productions collectives.
 Notamment au moyen de [l'outil libre et opensource qu'il a créé: Topogram](topogram.io) .
 -voir [tutoriel d’installation sur mon fed.wiki par ici](http://habib.outlandish.academy/view/welcome-visitors/view/voir-au-travers-des-yeux-automatiques)-.
@@ -199,8 +205,8 @@ des éventuelles belles vues,
 
 *Habsinn - (pour poursuivre la conversation, c'est par ici: habib.belaribi@aquilenet.fr :-)*
 
-*(1) Éthériénopedia: Communication//sociale: Processus de création d’une vision partagée et de contextes communs à travers nos langages (mots, images ou gestes)// Qui se déroule au sein d’un réseau d’êtres humains.    
+*(1) Lexique éthérien: Communication//sociale: Processus de création d’une vision partagée et de contextes communs à travers nos langages (mots, images ou gestes)// Qui se déroule au sein d’un réseau d’êtres humains.*    
 
-(2) (3) (4) (5) (7): voir article de Sophie http://www.les-ethers-fertiles.blog/21/02/2018/    
+*(2) (3) (4) (5) (7): voyez l'[article de Sophie](http://www.les-ethers-fertiles.blog/21/02/2018/)*    
 
-(6) au sein de la [Social Media Squad](www.socialmediasquad.cc), avec [Romain](twitter.com/openizer), ami et frère.*
+*(6) dans le cadre du World Forum for a Responsible Economy à Lille, les 5 thèmes étant: chocs technologiques, nouveaux modèles entrepreneuriaux, changements géopolitiques, savoirs et compétences, biens communs. Rapport produit au sein de la [Social Media Squad](www.socialmediasquad.cc), avec [Romain](twitter.com/openizer), collaborateur et ami.*
