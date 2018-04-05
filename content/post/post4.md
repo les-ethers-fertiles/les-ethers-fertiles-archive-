@@ -5,11 +5,34 @@ thumbnail: /images/uploads/ethers.jpg
 ---
 # Communication Sociale:
 
-Nous voyons 3 paradigmes en communication sociale, qui réponde à des logiques et deploie des mécanismes spécifiques: les annonces publicitaires, les relations publiques, et le bouche-à-oreille (ou communication p2p).
+> **Communication**
+>
+> \
+>
+>
+>    
+>
+> **// Sociale**
+>
+> \
+>
+>
+> Processus de création d’une vision partagée et de contextes communs à travers nos langages (mots, images ou gestes)
+>
+> \
+>
+>
+>    // Qui se déroule au sein d’un réseau d’êtres humains.
 
-## 1. La Publicité
+Nous discriminons 3 paradigmes en communication sociale, qui réponde à des logiques particulières et deploie des mécanismes spécifiques: 
 
-L'idée que l'on veut attirer avec 1 message, 1 image forte déclinée dans différents médias. c'est toujours le même message, avec un message unique.
+* les annonces publicitaires (la Pub)
+* les relations publiques
+* le bouche-à-oreille (Communication p2p)
+
+## 1. Les Annonces Publicitaires OU la Pub
+
+Processus centralisé par lequel une marque - qu'on appelle Annonceur-  veut provoquer l'adhésion d'un public cible à un 1 message clé en génral accompagné d'1 image forte déclinée dans différents médias. Il s'agit d'un message unique diffusé dans un maximum de canaux de communications
 On cherche le message parfait, impactant, on le diffuse et l'on souhaite créer le plus _d'impressions_ possible.
 
 _Media : milieu qui permet de transmettre un message d'un émetteur vers de récepteurs (destinataires)_.
@@ -39,7 +62,7 @@ Historiquement :
 * télévision
 * internet
 
-## 2. Les relations publiques
+## 2. Les Relations Publiques
 
 Théorisé par [Edward Bernays](https://fr.wikipedia.org/wiki/Edward_Bernays) (neveu de S. Freud), les relations publiques constituent à manipuler les masses par l'intermédiaire du _gouvernement invisible_ (les gens influents, qui ont une réputation)
 
@@ -48,7 +71,7 @@ _œuvre_ : Propaganda [Propagande](https://fr.wikipedia.org/wiki/Propagande_(liv
 Au 18ieme siècle, il a l'idée que les masses sont ignorantes et incultes et qu'elles ont besoin de leaders pour les guider.
 On cible les leaders d'opinion, on créer des campagnes d'influence, on va voir les influenceurs et on les paye pour qu'ils parlent de la marque.
 
-## 3. Le bouche-à-oreille OU Communication pair-à-pair
+## 3. Le Bouche-à-oreille OU Communication pair-à-pair
 
 Conversation de personnes à personnes
 3 principes : 
