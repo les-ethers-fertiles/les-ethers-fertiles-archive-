@@ -19,7 +19,7 @@ thumbnail: /images/uploads/ethers.jpg
 >
 >    // Qui se déroule au sein d’un réseau d’êtres humains.
 
-Nous discriminons 3 paradigmes en communication sociale, qui réponde à des logiques particulières et deploie des mécanismes spécifiques: 
+Nous discriminons 3 paradigmes en communication sociale, qui répondent à des logiques particulières et deploient des mécanismes spécifiques: 
 
 * les annonces publicitaires (la Pub)
 * les relations publiques
@@ -27,20 +27,19 @@ Nous discriminons 3 paradigmes en communication sociale, qui réponde à des log
 
 ## 1. Les Annonces Publicitaires OU la Pub
 
-Processus centralisé par lequel une marque - qu'on appelle Annonceur-  veut provoquer l'adhésion d'un public cible à un 1 message clé en génral accompagné d'1 image forte déclinée dans différents médias. Il s'agit d'un message unique diffusé dans un maximum de canaux de communications
+Processus centralisé par lequel une marque - qu'on appelle Annonceur-  veut provoquer l'adhésion d'un public cible à un 1_ slogan_ en général accompagné d'1_ image forte _déclinée dans différents médias. Il s'agit d'un message unique diffusé dans un maximum de canaux de communications.
 On cherche le message parfait, impactant, on le diffuse et l'on souhaite créer le plus _d'impressions_ possible.
 
 _Media : milieu qui permet de transmettre un message d'un émetteur vers de récepteurs (destinataires)_.
 
-C'est un procédé qui agit sur des désirs et des inattentions (inconscient) des individus qui constituent le _public cible_.
+C'est un procédé qui agit sur des désirs et des inattentions des individus qui constituent le _public cible: _on vise en effet la maximum d'_impressions _-mentales?- .
 Dans la publicité, on utilise une mesure : le _top of mind_. C'est le classement, à quel niveau les gens placent la marque dans leur représentation personnelle, intime.
 
 On l'utilise:
 
-*  avant la campagne de publicité
+* avant la campagne de publicité
 * pendant, on mesure le nombre de vues "impressions"
-*  et à nouveau après la campagn afin de voir quels ont été ses effets, cad si la marque   a monté des échelons dans le top of mind et/ou est apparu dans la représentation personnelles du public cible dans le cas dune nouvelle marque.
-
+* et à nouveau après la campagn afin de voir quels ont été ses effets, cad si la marque   a monté des échelons dans le top of mind et/ou est apparu dans la représentation personnelles du public cible dans le cas dune nouvelle marque.
 
 La publicité s'adapte à des supports différents et se transmet via des technologies particulières qui dominent selon l'époque (en géneral centralisées ou décentralisées): journaux, radio, télé, bannieres internet.
 
