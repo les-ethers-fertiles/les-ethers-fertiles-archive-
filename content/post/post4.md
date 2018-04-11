@@ -79,12 +79,12 @@ A la difference de la Pub ou des Relations Publiques qui s appuient sur un relai
 1. 90% des gens ne font pas confiance aux discours des marques (depuis une dizaine danne: voir rapport Nielsen 2007)
 2. En pair à pair, la confiance sociale se developpe au sein d un reseau distribue (voir le [premier article sur le mode de production pair-a-pair](http://www.les-ethers-fertiles.blog/16/02/2018/)). Elle correspond a la confiance dans les recommandations de pairs.  
 3. le Bouche à Oreille (word-of-mouth) et les Internets: 
-   * une partie s'est industrialisée avec internet via les plateformes dites Tiers de COnfiance (comme trip advisor, AirBnB, etc...) qui visent à mettre en lien des individus par recommandations et notations interposees au sein dune plateforme centralisee, les technologies internets permettant de grarder des traces publiques de cette confiance.
-   * en général, c'est 8% des gens qui créent 80% des contenus; ils ont un petit cercle d'influence qu'ils forment à travers les conversations authentiques auxquelles ils cotnribuent, cad qu ils ne voudront pas être payé (en reconnaissance ou en argent) pour parler d'une marque. Ce qu'ils veulent : se connecter avec d'autres gens qui ont les mêmes centres d'intérêts et apprendre plus sur le sujet.
+   * une partie s'est industrialisée avec internet via les plateformes dites Tiers de Confiance (comme trip advisor, AirBnB, etc...) qui visent à mettre en lien des individus par recommandations et notations interposées au sein dune plateforme centralisée, les technologies internets permettant de garder des traces publiques de cette confiance.
+   * en général, c'est 8% des gens qui créent 80% des contenus; ils ont un petit cercle d'influence qu'ils forment à travers les conversations authentiques auxquelles ils cotnribuent, cad qu ils ne voudront pas être payé (en reconnaissance ou en argent) pour parler d'une marque. Ce qu'ils veulent: se connecter avec d'autres gens qui ont les mêmes centres d'intérêts et apprendre plus sur le sujet.
 
 **Déviance du bouche à oreille**\
-Comme il y a des traces en lignes de tout ce que l'on fait, des personnes peuvent s'en servir pour créer de fausses rumeurs "[astroturfing](https://en.wikipedia.org/wiki/Astroturfing) "(Astro Turf : marque de faux gazons)
-Il faut donc toujours vérifier les sources. Il est toujours possible de manipuler les contenus d'autant plus que les réseaux utilisés sont des réseaux **centralisés** (facebook, tweeter...)
+Comme il y a des traces en lignes de tout ce que l'on fait, des personnes peuvent s'en servir pour créer de fausses rumeurs "[astroturfing](https://en.wikipedia.org/wiki/Astroturfing) " **au sein d'une plateforme de communication centralisee** (vient: d Astro Turf : marque de faux gazons).
+Il faut donc toujours vérifier les sources, surtout au sein d une plateforme centralisee  (facebook, tweeter...) qui exacerbe des tendances egotiques de maniere virale par l'algorythmes qu elles imposent aux utilisateurs de leur plateforme.  Ces tendances sont plus difficilement possible au sein d un reseau de communications ociale distribuee comme la blogsphere, chaque individu etant a la fois emetteur et recepteur sans filtres qui influencent son comportement au moment de son processus de redaction et de publication,  ou lors de la conversation generee par ses publications.
 
 **`Notre approche :`**
 
