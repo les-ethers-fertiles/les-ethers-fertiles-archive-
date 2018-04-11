@@ -80,7 +80,7 @@ A la difference de la Pub ou des Relations Publiques qui s appuient sur un relai
 2. En pair à pair, la confiance sociale se developpe au sein d un reseau distribue (voir le [premier article sur le mode de production pair-a-pair](http://www.les-ethers-fertiles.blog/16/02/2018/)). Elle correspond a la confiance dans les recommandations de pairs.  
 3. le Bouche à Oreille (word-of-mouth) et les Internets: 
    * une partie s'est industrialisée avec internet via les plateformes dites Tiers de COnfiance (comme trip advisor, AirBnB, etc...) qui vise à mettre en lien des individus par recommandations et notations interposees au sein dune plateforme centralisee, les technologies internets permettant de grarder des traces publiques de cette confiance.
-   * en général, c'est 8% des gens qui créent 80% des contenus; ils ont un petit cercle d'influence mais ils ne voudront pas être payer pour parler d'une marque. Ce qu'ils veulent : connecter avec d'autres gens qui ont les même centre d'intérets et apprendre plus sur le sujet
+   * en général, c'est 8% des gens qui créent 80% des contenus; ils ont un petit cercle d'influence qu'ils forment a travers les conversations authentiques auxquelles ils cotnribuent, cad qu ils ne voudront pas être paye (en reconnaissance ou en argent) pour parler d'une marque. Ce qu'ils veulent : se connecter avec d'autres gens qui ont les même centre d'intérets et apprendre plus sur le sujet
 
 **Déviance du bouche à oreille**\
 Comme il y a des traces en lignes de tout ce que l'on fait, des personnes peuvent s'en servir pour créer de fausses rumeurs "[astroturfing](https://en.wikipedia.org/wiki/Astroturfing) "(Astro Turf : marque de faux gazons)
