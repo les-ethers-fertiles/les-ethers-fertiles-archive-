@@ -4,11 +4,12 @@ title: 'Petites communautés productives et égalitaires urbaines [traduktoj]'
 date: '2018-04-11T15:17:09+02:00'
 thumbnail: /images/uploads/logo-lasindias.png
 ---
+**Texte extrait de :** «Pfade in Utopia. Über Gemeinschaft und deren Verwirklichung» (1950) de Martin Buber.\
 **Titre original** : Pequeñas comunidades productivas e igualitarias urbanas\
-**Auteur :** David de Ugarte\
+**Auteur :** Las Indias eElectronicas\
 lien vers l'article original : [el futuro aqui y ahora](https://lasindias.blog/el-futuro-aqui-y-ahora)
 
-> Le livre "El futuro aqui y ahora" dont est extrait cet pensée est composé de 
+> "El futuro aqui y ahora" est issu d'un processus où les auteurs ont choisis des textes d'auteurs (Keynes, Marx, Camus...) concernant une pensée précise, et dans chacun desquels il sélectionne des extraits qui, mis bout à bout, peuvent se lire comme une nouvelle forme de ce texte. C'est une forme de collage/remix d'une oeuvre qui permet la synthèse d'une pensée sans en déformer le propos global initial. 
 
 # Petites communautés productives et égalitaires urbaines
 
