@@ -9,18 +9,13 @@ thumbnail: /images/uploads/ethers.jpg
 >
 > \
 >
->
->    
->
 > **// Sociale**
 >
 > \
 >
->
 > Processus de création d’une vision partagée et de contextes communs à travers nos langages (mots, images ou gestes)
 >
 > \
->
 >
 >    // Qui se déroule au sein d’un réseau d’êtres humains.
 
@@ -37,11 +32,17 @@ On cherche le message parfait, impactant, on le diffuse et l'on souhaite créer 
 
 _Media : milieu qui permet de transmettre un message d'un émetteur vers de récepteurs (destinataires)_.
 
-C'est une manipulation sur des désirs et des inattentions (inconscient).
-Dans la publicité, on utilise une mesure : le _top of mind_. C'est le classement, à quel niveau les gens placent la marque.
-La marque dans le jargon, c'est _l'annonceur_
-On l'utilise avant la campagne de publicité, pendant (mesurent le nombre de vues "impressions") et après la campagne. Le but est de monter des échelons dans le top of mind et/ou d'apparaître dans l'esprit des gens si l'on est une nouvelle marque.
-La publicité s'adapte à des supports différents et se transmet via des technologies particulières qui dominent selon l'époque (distribués ou centralisés) la publicité fonctionne dans des structures centralisés
+C'est un procédé qui agit sur des désirs et des inattentions (inconscient) des individus qui constituent le _public cible_.
+Dans la publicité, on utilise une mesure : le _top of mind_. C'est le classement, à quel niveau les gens placent la marque dans leur représentation personnelle, intime.
+
+On l'utilise:
+
+*  avant la campagne de publicité
+* pendant, on mesure le nombre de vues "impressions"
+*  et à nouveau après la campagn afin de voir quels ont été ses effets, cad si la marque   a monté des échelons dans le top of mind et/ou est apparu dans la représentation personnelles du public cible dans le cas dune nouvelle marque.
+
+
+La publicité s'adapte à des supports différents et se transmet via des technologies particulières qui dominent selon l'époque (en géneral centralisées ou décentralisées): journaux, radio, télé, bannieres internet.
 
 [ article media part facebook](https://www.pressafrik.com/Enquete-Mediapart-Comment-Facebook-achete-la-presse-francaise_a173964.html)
 
