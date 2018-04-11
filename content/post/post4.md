@@ -19,7 +19,7 @@ thumbnail: /images/uploads/ethers.jpg
 >
 >    // Qui se déroule au sein d’un réseau d’êtres humains.
 
-Nous discriminons 3 paradigmes en communication sociale, qui réponde à des logiques particulières et deploie des mécanismes spécifiques: 
+Nous discriminons 3 paradigmes en communication sociale, qui répondent à des logiques particulières et deploient des mécanismes spécifiques: 
 
 * les annonces publicitaires (la Pub)
 * les relations publiques
@@ -27,29 +27,27 @@ Nous discriminons 3 paradigmes en communication sociale, qui réponde à des log
 
 ## 1. Les Annonces Publicitaires OU la Pub
 
-Processus centralisé par lequel une marque - qu'on appelle Annonceur-  veut provoquer l'adhésion d'un public cible à un 1 message clé en génral accompagné d'1 image forte déclinée dans différents médias. Il s'agit d'un message unique diffusé dans un maximum de canaux de communications
-On cherche le message parfait, impactant, on le diffuse et l'on souhaite créer le plus _d'impressions_ possible.
+Processus centralisé par lequel une marque - qu'on appelle Annonceur-  veut provoquer l'adhésion d'un public cible à un 1_ slogan_ en général accompagné d'1_ image forte _déclinée dans différents médias. Il s'agit d'un message unique diffusé dans un maximum de canaux de communications.
+On cherche le message parfait, le plus impactant possible_._
 
 _Media : milieu qui permet de transmettre un message d'un émetteur vers de récepteurs (destinataires)_.
 
-C'est une manipulation sur des désirs et des inattentions (inconscient).
-Dans la publicité, on utilise une mesure : le _top of mind_. C'est le classement, à quel niveau les gens placent la marque.
-La marque dans le jargon, c'est _l'annonceur_
-On l'utilise avant la campagne de publicité, pendant (mesurent le nombre de vues "impressions") et après la campagne. Le but est de monter des échelons dans le top of mind et/ou d'apparaître dans l'esprit des gens si l'on est une nouvelle marque.
-La publicité s'adapte à des supports différents et se transmet via des technologies particulières qui dominent selon l'époque (distribués ou centralisés) la publicité fonctionne dans des structures centralisés
+C'est un procédé qui agit sur des désirs et des inattentions des individus qui constituent le _public cible: _on vise en effet le maximum d'_impressions _-mentales?- .
 
-[ article media part facebook](https://www.pressafrik.com/Enquete-Mediapart-Comment-Facebook-achete-la-presse-francaise_a173964.html)
-
-Les agences de publicité sur internet sont payés :
+Les agences de publicité sur internet sont d'ailleurs payées au :
 
 * _pay per clic_ 
 * _pay per mil_
 
-**Pour aller plus loin** : 
-[Mad Men série télé](https://fr.wikipedia.org/wiki/Mad_Men)
-[Histoire de la publicité](https://fr.wikipedia.org/wiki/Histoire_de_la_publicit%C3%A9)
+Dans la publicité, on utilise une mesure : le _top of mind_. C'est le classement, à quel niveau les gens placent la marque dans leur représentation personnelle, intime.
 
-Historiquement : 
+On l'utilise:
+
+* avant la campagne de publicité
+* pendant, on mesure le nombre de vues "impressions"
+* et à nouveau après la campagn afin de voir quels ont été ses effets, cad si la marque   a monté des échelons dans le top of mind et/ou est apparu dans la représentation personnelles du public cible dans le cas dune nouvelle marque.
+
+La publicité adapte ses formats à des supports différents et se transmet via les technologies qui dominent selon l'époque (en géneral centralisées ou décentralisées): 
 
 * héraut (crieurs publiques)
 * journaux
@@ -57,41 +55,38 @@ Historiquement :
 * télévision
 * internet
 
+[Exemple: Comment facebook](https://www.pressafrik.com/Enquete-Mediapart-Comment-Facebook-achete-la-presse-francaise_a173964.html) a dominé les medias francais.
+
+**Pour aller plus loin** : 
+[Mad Men série télé](https://fr.wikipedia.org/wiki/Mad_Men)
+[Histoire de la publicité](https://fr.wikipedia.org/wiki/Histoire_de_la_publicit%C3%A9)
+
 ## 2. Les Relations Publiques
 
-Théorisé par [Edward Bernays](https://fr.wikipedia.org/wiki/Edward_Bernays) (neveu de S. Freud), les relations publiques consistent à manipuler les masses par l'intermédiaire du _gouvernement invisible_, cad les gens influents, qui ont un cercle d'influence important, l'acces a des canaux de communication qui ont une portée aupres dune audience qui sera réceptive à leurs messages.
+Théorisé par [Edward Bernays](https://fr.wikipedia.org/wiki/Edward_Bernays) (neveu de S. Freud), les relations publiques constituent à manipuler les masses par l'intermédiaire du _gouvernement invisible_ (les gens influents, qui ont une réputation)
 
-Le titre du livre ou il theorise cette pratique et généralise le terme de Relations Publiques (RP) s'intitule:  [Propagand](https://fr.wikipedia.org/wiki/Propagande_(livre))a
+_œuvre_ : Propaganda [Propagande](https://fr.wikipedia.org/wiki/Propagande_(livre))
 
-A noter qu'au début du 20eme siècle, il y a l'idée que les masses sont ignorantes et incultes et qu'elles ont besoin d'une élite éduquée et clairvoyante pour les guider. Il faut garder à lesprit qu à l'époque, il n'y avait pas encore l'école publique obligatoire pour tous dans la plupart des républiques du monde.
-
-
-Dans les relations publiques, on cible ainsi des leaders d'opinion, on crée des campagnes aupres d'influenceurs que l'on paye afin qu'ils parlent de la marque en leur nom.
-
-La mesure du succes est la capacité a avoir changé l'opinion des masses ou d'un public cible: comme pour le top of mind, on mesure l'opinion avant la campagne, et l'opinion apres la campagne de RP.
+Au 18ieme siècle, il a l'idée que les masses sont ignorantes et incultes et qu'elles ont besoin de leaders pour les guider.
+On cible les leaders d'opinion, on créer des campagnes d'influence, on va voir les influenceurs et on les paye pour qu'ils parlent de la marque.
 
 ## 3. Le Bouche-à-oreille OU Communication pair-à-pair
 
-Conversation de personnes à personnes
+A la difference de la Pub ou des Relations Publiques qui s appuient sur un relai dinformation entre un emetteur-marque et des recepteur-individus, le Bouche-a-oreille lui s'appuit sur des conversations de personnes à personnes (ou pair-a-pair ou p2p).
+
 3 principes : 
 
-1. 90% des gens ne font pas confiance aux discours des marques (ça fait environ 10/15 ans)
-2. pair à pair : confiance sociale (confiance par recommandation de pairs (trip advisor, AirBnB...) Internet permet d'avoir des traces publiques de cette confiance
-3. le Bouche à Oreille (word-of-mouth)
-   * une partie s'est industrialisée avec internet (via des personnes influentes) et c'est un mix entre la pub et les relations publique
-   * en général, c'est 8% des gens qui créent 80% des contenus; ils ont un petit cercle d'influence mais ils ne voudront pas être payer pour parler d'une marque. Ce qu'ils veulent : connecter avec d'autres gens qui ont les même centre d'intérets et apprendre plus sur le sujet
+1. 90% des gens ne font pas confiance aux discours des marques (depuis une dizaine danne: voir rapport Nielsen 2007)
+2. En pair à pair, la confiance sociale se developpe au sein d un reseau distribue (voir le [premier article sur le mode de production pair-a-pair](http://www.les-ethers-fertiles.blog/16/02/2018/)). Elle correspond a la confiance dans les recommandations de pairs.  
+3. le Bouche à Oreille (word-of-mouth) et les Internets: 
+   * une partie s'est industrialisée avec internet via les plateformes dites Tiers de Confiance (comme trip advisor, AirBnB, etc...) qui visent à mettre en lien des individus par recommandations et notations interposées au sein dune plateforme centralisée, les technologies internets permettant de garder des traces publiques de cette confiance.
+   * en général, c'est 8% des gens qui créent 80% des contenus; ils ont un petit cercle d'influence qu'ils forment à travers les conversations authentiques auxquelles ils cotnribuent, cad qu ils ne voudront pas être payé (en reconnaissance ou en argent) pour parler d'une marque. Ce qu'ils veulent: se connecter avec d'autres gens qui ont les mêmes centres d'intérêts et apprendre plus sur le sujet.
 
 **Déviance du bouche à oreille**\
-Comme il y a des traces en lignes de tout ce que l'on fait, des personnes peuvent s'en servir pour créer de fausses rumeurs "[astroturfing](https://en.wikipedia.org/wiki/Astroturfing) "(Astro Turf : marque de faux gazons)
-Il faut donc toujours vérifier les sources. Il est toujours possible de manipuler les contenus d'autant plus que les réseaux utilisés sont des réseaux **centralisés** (facebook, tweeter...)
+Comme il y a des traces en lignes de tout ce que l'on fait, des personnes peuvent s'en servir pour créer de fausses rumeurs "[astroturfing](https://en.wikipedia.org/wiki/Astroturfing) " **au sein d'une plateforme de communication centralisee** (vient: d Astro Turf : marque de faux gazons).
+Il faut donc toujours vérifier les sources, surtout au sein d une plateforme centralisee  (facebook, tweeter...) qui exacerbe des tendances egotiques de maniere virale par l'algorythmes qu elles imposent aux utilisateurs de leur plateforme.  Ces tendances sont plus difficilement possible au sein d un reseau de communications ociale distribuee comme la blogsphere, chaque individu etant a la fois emetteur et recepteur sans filtres qui influencent son comportement au moment de son processus de redaction et de publication,  ou lors de la conversation generee par ses publications.
 
-**Notre approche :**
+**`Notre approche :`**
 
-* Ne pas parler en tant que marque
-* parler de personnes à personnes en choisissant les 8% qui créent déjà du contenu
-
-On veut faire des opérations de bouche à oreille d'égal à égal. Pas de rapport de force. On est dans une conversation ou l'on connaît l'intérêt de l'autre au moment t où on lui parle. (cf jeux : comment se connecter avec ses pairs au niveau international en 1 mois)
-Nous souhaitons être cohérent avec nos valeurs, de l'éthique hacker et du librisme. Nous ne souhaitons pas alors activer les leviers de la publicité ou des relations publiques car elles procèdent à une logique de manipulation des masses.
-Nous souhaitons faire émerger des conversations authentiques et que la communication sociale soit un moyen d'une collaboration entre personnes se considérant égales.  
-
-écrit par _Sophie Saradjian_,  sophie.saradjian@aquilenet.fr
+* `Ne pas parler en tant que marque`
+* `parler de personnes à personnes en choisissant les 8% qui créent déjà du contenu authentique.`
