@@ -48,7 +48,13 @@ On l'utilise:
 * pendant, on mesure le nombre de vues "impressions"
 * et à nouveau après la campagn afin de voir quels ont été ses effets, cad si la marque   a monté des échelons dans le top of mind et/ou est apparu dans la représentation personnelles du public cible dans le cas dune nouvelle marque.
 
-La publicité adapte ses formats à des supports différents et se transmet via les technologies qui dominent selon l'époque (en géneral centralisées ou décentralisées): journaux, radio, télé, bannieres internet.
+La publicité adapte ses formats à des supports différents et se transmet via les technologies qui dominent selon l'époque (en géneral centralisées ou décentralisées): 
+
+* héraut (crieurs publiques)
+* journaux
+* radio
+* télévision
+* internet
 
 [Exemple: Comment facebook](https://www.pressafrik.com/Enquete-Mediapart-Comment-Facebook-achete-la-presse-francaise_a173964.html) a dominé les medias francais.
 
@@ -58,13 +64,7 @@ La publicité adapte ses formats à des supports différents et se transmet via 
 [Mad Men série télé](https://fr.wikipedia.org/wiki/Mad_Men)
 [Histoire de la publicité](https://fr.wikipedia.org/wiki/Histoire_de_la_publicit%C3%A9)
 
-Historiquement : 
 
-* héraut (crieurs publiques)
-* journaux
-* radio
-* télévision
-* internet
 
 ## 2. Les Relations Publiques
 
