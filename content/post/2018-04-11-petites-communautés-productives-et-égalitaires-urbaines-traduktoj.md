@@ -38,4 +38,4 @@ La chance du genre humain dépend de la possibilité que la société communauta
 
 Quand je parle de la renaissance d'une société communautaire, je ne pense pas à une situation mondiale comme celle d'aujourd'hui, mais à une nouvelle situation. Quand je parle des nouvelles communautés -bien que d'aucun les appelle les nouvelles coopératives-, je me réfère aux sujets de l'économie transformée, aux communautés égalitaires qui grandiront en se dotant de leurs propres moyens de production.
 
-> _Traduction commencée en décembre 2017 et aboutie en mars 2018 par Sophie Saradjian, et relue et corrigée par Habib Belaribi_
+> _Traduction de l'extrait remixé de l'espagnol au français par Sophie Saradjian, relue et corrigée par Habib Belaribi_
