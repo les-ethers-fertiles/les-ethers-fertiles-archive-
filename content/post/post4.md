@@ -48,9 +48,9 @@ On l'utilise:
 * pendant, on mesure le nombre de vues "impressions"
 * et à nouveau après la campagn afin de voir quels ont été ses effets, cad si la marque   a monté des échelons dans le top of mind et/ou est apparu dans la représentation personnelles du public cible dans le cas dune nouvelle marque.
 
-La publicité s'adapte à des supports différents et se transmet via des technologies particulières qui dominent selon l'époque (en géneral centralisées ou décentralisées): journaux, radio, télé, bannieres internet.
+La publicité adapte ses formats à des supports différents et se transmet via les technologies qui dominent selon l'époque (en géneral centralisées ou décentralisées): journaux, radio, télé, bannieres internet.
 
-[ article media part facebook](https://www.pressafrik.com/Enquete-Mediapart-Comment-Facebook-achete-la-presse-francaise_a173964.html)
+[Exemple: Comment facebook](https://www.pressafrik.com/Enquete-Mediapart-Comment-Facebook-achete-la-presse-francaise_a173964.html) a dominé les medias francais.
 
 
 
