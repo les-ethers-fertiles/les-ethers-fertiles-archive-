@@ -74,7 +74,6 @@ On cible les leaders d'opinion, on créer des campagnes d'influence, on va voir 
 
 A la difference de la Pub ou des Relations Publiques qui s appuient sur un relai dinformation entre un emetteur-marque et des recepteur-individus, le Bouche-a-oreille lui s'appuit sur des conversations de personnes à personnes (ou pair-a-pair ou p2p).
 
-
 3 principes : 
 
 1. 90% des gens ne font pas confiance aux discours des marques (depuis une dizaine danne: voir rapport Nielsen 2007)
@@ -87,13 +86,7 @@ A la difference de la Pub ou des Relations Publiques qui s appuient sur un relai
 Comme il y a des traces en lignes de tout ce que l'on fait, des personnes peuvent s'en servir pour créer de fausses rumeurs "[astroturfing](https://en.wikipedia.org/wiki/Astroturfing) "(Astro Turf : marque de faux gazons)
 Il faut donc toujours vérifier les sources. Il est toujours possible de manipuler les contenus d'autant plus que les réseaux utilisés sont des réseaux **centralisés** (facebook, tweeter...)
 
-**Notre approche :**
+**`Notre approche :`**
 
-* Ne pas parler en tant que marque
-* parler de personnes à personnes en choisissant les 8% qui créent déjà du contenu
-
-On veut faire des opérations de bouche à oreille d'égal à égal. Pas de rapport de force. On est dans une conversation ou l'on connaît l'intérêt de l'autre au moment t où on lui parle. (cf jeux : comment se connecter avec ses pairs au niveau international en 1 mois)
-Nous souhaitons être cohérent avec nos valeurs, de l'éthique hacker et du librisme. Nous ne souhaitons pas alors activer les leviers de la publicité ou des relations publiques car elles procèdent à une logique de manipulation des masses.
-Nous souhaitons faire émerger des conversations authentiques et que la communication sociale soit un moyen d'une collaboration entre personnes se considérant égales.  
-
-écrit par _Sophie Saradjian_,  sophie.saradjian@aquilenet.fr
+* `Ne pas parler en tant que marque`
+* `parler de personnes à personnes en choisissant les 8% qui créent déjà du contenu authentique.`
