@@ -28,11 +28,18 @@ Nous discriminons 3 paradigmes en communication sociale, qui répondent à des l
 ## 1. Les Annonces Publicitaires OU la Pub
 
 Processus centralisé par lequel une marque - qu'on appelle Annonceur-  veut provoquer l'adhésion d'un public cible à un 1_ slogan_ en général accompagné d'1_ image forte _déclinée dans différents médias. Il s'agit d'un message unique diffusé dans un maximum de canaux de communications.
-On cherche le message parfait, impactant, on le diffuse et l'on souhaite créer le plus _d'impressions_ possible.
+On cherche le message parfait, le plus impactant possible_._
 
 _Media : milieu qui permet de transmettre un message d'un émetteur vers de récepteurs (destinataires)_.
 
-C'est un procédé qui agit sur des désirs et des inattentions des individus qui constituent le _public cible: _on vise en effet la maximum d'_impressions _-mentales?- .
+C'est un procédé qui agit sur des désirs et des inattentions des individus qui constituent le _public cible: _on vise en effet le maximum d'_impressions _-mentales?- .
+
+Les agences de publicité sur internet sont d'ailleurs payées au :
+
+* _pay per clic_ 
+* _pay per mil_
+
+
 Dans la publicité, on utilise une mesure : le _top of mind_. C'est le classement, à quel niveau les gens placent la marque dans leur représentation personnelle, intime.
 
 On l'utilise:
@@ -45,10 +52,7 @@ La publicité s'adapte à des supports différents et se transmet via des techno
 
 [ article media part facebook](https://www.pressafrik.com/Enquete-Mediapart-Comment-Facebook-achete-la-presse-francaise_a173964.html)
 
-Les agences de publicité sur internet sont payés :
 
-* _pay per clic_ 
-* _pay per mil_
 
 **Pour aller plus loin** : 
 [Mad Men série télé](https://fr.wikipedia.org/wiki/Mad_Men)
