@@ -9,22 +9,17 @@ thumbnail: /images/uploads/ethers.jpg
 >
 > \
 >
->
->    
->
 > **// Sociale**
 >
 > \
->
 >
 > Processus de création d’une vision partagée et de contextes communs à travers nos langages (mots, images ou gestes)
 >
 > \
 >
->
 >    // Qui se déroule au sein d’un réseau d’êtres humains.
 
-Nous discriminons 3 paradigmes en communication sociale, qui réponde à des logiques particulières et deploie des mécanismes spécifiques: 
+Nous discriminons 3 paradigmes en communication sociale, qui répondent à des logiques particulières et deploient des mécanismes spécifiques: 
 
 * les annonces publicitaires (la Pub)
 * les relations publiques
@@ -32,35 +27,44 @@ Nous discriminons 3 paradigmes en communication sociale, qui réponde à des log
 
 ## 1. Les Annonces Publicitaires OU la Pub
 
-Processus centralisé par lequel une marque - qu'on appelle Annonceur-  veut provoquer l'adhésion d'un public cible à un 1 message clé en génral accompagné d'1 image forte déclinée dans différents médias. Il s'agit d'un message unique diffusé dans un maximum de canaux de communications
-On cherche le message parfait, impactant, on le diffuse et l'on souhaite créer le plus _d'impressions_ possible.
+Processus centralisé par lequel une marque - qu'on appelle Annonceur-  veut provoquer l'adhésion d'un public cible à un 1_ slogan_ en général accompagné d'1_ image forte _déclinée dans différents médias. Il s'agit d'un message unique diffusé dans un maximum de canaux de communications.
+On cherche le message parfait, le plus impactant possible_._
 
 _Media : milieu qui permet de transmettre un message d'un émetteur vers de récepteurs (destinataires)_.
 
-C'est une manipulation sur des désirs et des inattentions (inconscient).
-Dans la publicité, on utilise une mesure : le _top of mind_. C'est le classement, à quel niveau les gens placent la marque.
-La marque dans le jargon, c'est _l'annonceur_
-On l'utilise avant la campagne de publicité, pendant (mesurent le nombre de vues "impressions") et après la campagne. Le but est de monter des échelons dans le top of mind et/ou d'apparaître dans l'esprit des gens si l'on est une nouvelle marque.
-La publicité s'adapte à des supports différents et se transmet via des technologies particulières qui dominent selon l'époque (distribués ou centralisés) la publicité fonctionne dans des structures centralisés
+C'est un procédé qui agit sur des désirs et des inattentions des individus qui constituent le _public cible: _on vise en effet le maximum d'_impressions _-mentales?- .
 
-[ article media part facebook](https://www.pressafrik.com/Enquete-Mediapart-Comment-Facebook-achete-la-presse-francaise_a173964.html)
-
-Les agences de publicité sur internet sont payés :
+Les agences de publicité sur internet sont d'ailleurs payées au :
 
 * _pay per clic_ 
 * _pay per mil_
 
-**Pour aller plus loin** : 
-[Mad Men série télé](https://fr.wikipedia.org/wiki/Mad_Men)
-[Histoire de la publicité](https://fr.wikipedia.org/wiki/Histoire_de_la_publicit%C3%A9)
 
-Historiquement : 
+Dans la publicité, on utilise une mesure : le _top of mind_. C'est le classement, à quel niveau les gens placent la marque dans leur représentation personnelle, intime.
+
+On l'utilise:
+
+* avant la campagne de publicité
+* pendant, on mesure le nombre de vues "impressions"
+* et à nouveau après la campagn afin de voir quels ont été ses effets, cad si la marque   a monté des échelons dans le top of mind et/ou est apparu dans la représentation personnelles du public cible dans le cas dune nouvelle marque.
+
+La publicité adapte ses formats à des supports différents et se transmet via les technologies qui dominent selon l'époque (en géneral centralisées ou décentralisées): 
 
 * héraut (crieurs publiques)
 * journaux
 * radio
 * télévision
 * internet
+
+[Exemple: Comment facebook](https://www.pressafrik.com/Enquete-Mediapart-Comment-Facebook-achete-la-presse-francaise_a173964.html) a dominé les medias francais.
+
+
+
+**Pour aller plus loin** : 
+[Mad Men série télé](https://fr.wikipedia.org/wiki/Mad_Men)
+[Histoire de la publicité](https://fr.wikipedia.org/wiki/Histoire_de_la_publicit%C3%A9)
+
+
 
 ## 2. Les Relations Publiques
 
