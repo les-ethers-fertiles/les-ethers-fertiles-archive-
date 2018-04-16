@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: 'Petites communautés productives et égalitaires urbaines [tradukto#002]'
+title: 'Petites communautés urbaines , productives et égalitaires [tradukto #002]'
 date: '2018-04-11T15:17:09+02:00'
 thumbnail: /images/uploads/logo-lasindias.png
 ---
-> **"El futuro aqui y ahora"** est issu d'un processus où les auteurs ont choisis des textes d'auteurs (Keynes, Marx, Camus...) concernant une pensée précise, et dans chacun desquels il sélectionne des extraits qui, mis bout à bout, peuvent se lire comme une nouvelle forme de ce texte. C'est une forme de collage/remix d'une oeuvre qui permet la synthèse d'une pensée sans en déformer le propos global initial. 
+> **"El futuro aquí y ahora"** est issu d'un processus où les auteurs ont choisi des textes d'auteurs (Keynes, Marx, Camus...) concernant une pensée précise. Ils ont sélectionné des extraits de différents ouvrages de ces auteurs qui, mis bout à bout, peuvent se lire comme une nouvelle forme de leurs écrits. C'est une forme de collage/remix d'une oeuvre qui permet la synthèse d'une pensée sans en déformer le propos initial. 
 
 **Texte original intégral** : [el futuro aqui y ahora](https://lasindias.blog/el-futuro-aqui-y-ahora)\
 **Auteurs :** [Las Indias Electronicas](https://lasindias.blog/)
@@ -38,4 +38,4 @@ La chance du genre humain dépend de la possibilité que la société communauta
 
 Quand je parle de la renaissance d'une société communautaire, je ne pense pas à une situation mondiale comme celle d'aujourd'hui, mais à une nouvelle situation. Quand je parle des nouvelles communautés -bien que d'aucun les appelle les nouvelles coopératives-, je me réfère aux sujets de l'économie transformée, aux communautés égalitaires qui grandiront en se dotant de leurs propres moyens de production.
 
-> _Traduction de l'extrait remixé de l'espagnol au français par Sophie Saradjian, relue et corrigée par Habib Belaribi_
+> _Traduction de l'extrait remixé de l'Espagnol au Français par Sophie Saradjian, relue et corrigée par Habib Belaribi_
