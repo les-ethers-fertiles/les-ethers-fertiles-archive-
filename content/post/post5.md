@@ -125,9 +125,9 @@ Dans ce cas particulier, nous voulions:
 * d’une part inviter notre client à écouter ce que les gens se racontent déjà sur ces 5 thèmes, en particulier les niches conversationnelles, les objets de controverse, les postures, et les silences dans la sphère publique;    
 * d’autre part encourager le client à inviter des contributeurs-narrateurs aux expériences et discours originaux pour qu'ils participent à des tables rondes et ateliers, ou encore qu'ils co-écrivent des articles personnels remis dans le domaine public au sein d’[un livret de contributeurs](https://www.responsible-economy.org/en/blog/127-news/924-2017-contributors-book) imprimé pour les participants à l’événement.   
 
-Un extrait du rapport en cliquant sur cette image:    
+Un [extrait du rapport par ici.](https://ia801504.us.archive.org/17/items/ExtraitDeRapportOnlineListening2017Respeco/Extrait%20de%20Rapport%20Online%20Listening%202017%20-%20respeco.pdf)
 
-![](/images/uploads/ol.png)
+![null](/images/uploads/ol.png)
 
 Ici,\
 les graphiques ne nous servent pas à identifier des _tendances_ sur lesquelles surfer,\
