@@ -1,25 +1,7 @@
 ---
-title: "Le mode de production pair-à-pair [tradukto #111]"
-date: 2018-02-16T17:29:28+01:00
-draft: false
-disqusIdentifier: fdsF34ff34
-keywords:
-- javascript
-- hexo
-clearReading: true
-thumbnailImage: paul_baran.jpg
-thumbnailImagePosition: left
-autoThumbnailImage: yes
-metaAlignment: center
-coverImage: paul_baran.jpg
-coverCaption: "Derrière toute architecture informationnelle se cache un système de pouvoirs."
-coverMeta: out
-coverSize: full
-comments: true
-showTags: true
-showPagination: true
-showSocial: true
-showDate: false
+title: 'Le mode de production pair-à-pair [tradukto #001]'
+date: 2018-02-16T16:29:28.000Z
+thumbnail: /images/uploads/paul_baran.jpg
 ---
 
 UN MANIFESTE INDIANO - 2012
