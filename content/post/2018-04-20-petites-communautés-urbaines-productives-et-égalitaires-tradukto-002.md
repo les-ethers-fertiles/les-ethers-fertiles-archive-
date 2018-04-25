@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: 'Petites communautés urbaines , productives et égalitaires [tradukto #_002]'
+title: 'Petites communautés urbaines , productives et égalitaires [tradukto #002]'
 date: '2018-04-20T15:27:58+02:00'
 thumbnail: /images/uploads/logo-lasindias.png
 ---
