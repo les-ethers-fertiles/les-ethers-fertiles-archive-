@@ -18,7 +18,7 @@ showSocial: true
 showDate: true
 ---
 
-*En remerciemant à toute l'équipe de Django Girls Bordeaux !*
+*En remerciement à toute l'équipe de Django Girls Bordeaux !*
 
 ![l'évènement](https://cloud.aquilenet.fr/index.php/apps/gallery/s/5wteRkDBpaio5pz)
 
