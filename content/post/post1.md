@@ -7,14 +7,10 @@ keywords:
 - javascript
 - hexo
 clearReading: true
-thumbnailImage: ethers.jpg
+thumbnailImage: https://cloud.aquilenet.fr/index.php/apps/gallery/s/weWERfYqsn6t4Lr
 thumbnailImagePosition: left
 autoThumbnailImage: yes
 metaAlignment: center
-coverImage: Example.jpg
-coverCaption: "Et nous nous connect-âmes"
-coverMeta: out
-coverSize: full
 comments: true
 showTags: true
 showPagination: true
