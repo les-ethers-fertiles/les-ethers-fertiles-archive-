@@ -1,8 +1,21 @@
 ---
 layout: blog
 title: 'Petites communautés urbaines , productives et égalitaires [tradukto #002]'
-date: '2018-04-20T15:27:58+02:00'
-thumbnail: /images/uploads/logo-lasindias.png
+date: '2018-04-20T15:27:58+02:00' 
+disqusIdentifier: fdsF34ff34
+keywords:
+- javascript
+- hexo
+clearReading: true
+thumbnailImage: https://cloud.aquilenet.fr/index.php/apps/gallery/s/P9FwPfbqkwRWf5z
+thumbnailImagePosition: left
+autoThumbnailImage: yes
+metaAlignment: center
+comments: true
+showTags: true
+showPagination: true
+showSocial: true
+showDate: true
 ---
 > **"El futuro aquí y ahora"** est issu d'un processus où les auteurs ont choisi des textes d'auteurs (Keynes, Marx, Camus...) concernant une pensée précise. Ils ont sélectionné des extraits de différents ouvrages de ces auteurs qui, mis bout à bout, peuvent se lire comme une nouvelle forme de leurs écrits. C'est une forme de collage/remix d'une oeuvre qui permet la synthèse d'une pensée sans en déformer le propos initial. 
 

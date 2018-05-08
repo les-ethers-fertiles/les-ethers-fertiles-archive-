@@ -1,7 +1,20 @@
 ---
 title: Lexique Éthérien
 date: 2018-02-21T15:31:54.000Z
-thumbnail: /images/uploads/ethers.jpg
+disqusIdentifier: fdsF34ff34
+keywords:
+- javascript
+- hexo
+clearReading: true
+thumbnailImage: https://cloud.aquilenet.fr/index.php/apps/gallery/s/cp2XY6osFoAwAg4
+thumbnailImagePosition: left
+autoThumbnailImage: yes
+metaAlignment: center
+comments: true
+showTags: true
+showPagination: true
+showSocial: true
+showDate: true
 ---
 # Communication Sociale:
 

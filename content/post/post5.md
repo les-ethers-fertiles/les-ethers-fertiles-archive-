@@ -1,7 +1,20 @@
 ---
 title: 'DATA-VISIONS pour la Communication Sociale [paroloj #01]'
-date: 2018-02-22T08:09:18.000Z
-thumbnail: /images/uploads/ol.png
+date: 2018-02-22T08:09:18.000Z 
+disqusIdentifier: fdsF34ff34
+keywords:
+- javascript
+- hexo
+clearReading: true
+thumbnailImage: https://cloud.aquilenet.fr/index.php/apps/gallery/s/tq2725jqoLmrQxj
+thumbnailImagePosition: left
+autoThumbnailImage: yes
+metaAlignment: center
+comments: true
+showTags: true
+showPagination: true
+showSocial: true
+showDate: true
 ---
 _Montpellier,_\
 _le 21 février 2018,_\

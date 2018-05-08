@@ -7,14 +7,10 @@ keywords:
 - javascript
 - hexo
 clearReading: true
-thumbnailImage: table-ronde.jpeg
+thumbnailImage: https://cloud.aquilenet.fr/index.php/apps/gallery/s/6ezrsiNPKebQ9Qy
 thumbnailImagePosition: left
 autoThumbnailImage: yes
 metaAlignment: center
-coverImage: table-ronde.jpeg
-coverCaption: "Nous nous connect-âmes"
-coverMeta: out
-coverSize: full
 comments: true
 showTags: true
 showPagination: true
