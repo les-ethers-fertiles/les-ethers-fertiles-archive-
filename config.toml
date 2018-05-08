@@ -19,8 +19,7 @@ canonifyurls = true
   bio = "Travailler, Apprendre, Vivre   libres ensemble à l'Ère des Internets"
   job = "COOPérative"
   location = "Bordeaux surtout, Londres et Madrid aussi"
-  gravatarEmail = "habib.belaribi@gmail.com"
-  picture = ""
+  picture = "https://cloud.aquilenet.fr/index.php/apps/gallery/s/9qFtPmKAWrgAsZL"
 
 [[menu.main]]
   weight = 1
@@ -53,7 +52,7 @@ canonifyurls = true
   identifier = "github"
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
-  url = "https://github.com/habsinn"
+  url = "https://github.com/les-ethers-fertiles"
 
 
 [[menu.misc]]
@@ -67,8 +66,8 @@ canonifyurls = true
   syntaxHighlighter = "highlight.js"
   clearReading = true
   hierarchicalCategories = true
-  description = "Hugo tranquilpeak theme demo"
-  sidebarBehavior = 1
+  description = "Hugo tranquilpeak theme"
+  sidebarBehavior = 2
   coverImage = "cover.jpg"
   imageGallery = true
   thumbnailImage = true
