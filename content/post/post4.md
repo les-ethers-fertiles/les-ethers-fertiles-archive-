@@ -1,20 +1,7 @@
 ---
 title: Lexique Éthérien
 date: 2018-02-21T15:31:54.000Z
-disqusIdentifier: fdsF34ff34
-keywords:
-- javascript
-- hexo
-clearReading: true
-thumbnailImage: https://cloud.aquilenet.fr/index.php/apps/gallery/s/cp2XY6osFoAwAg4
-thumbnailImagePosition: left
-autoThumbnailImage: yes
-metaAlignment: center
-comments: true
-showTags: true
-showPagination: true
-showSocial: true
-showDate: true
+thumbnail: /images/uploads/ethers.jpg
 ---
 # Communication Sociale:
 
@@ -52,13 +39,13 @@ Les agences de publicité sur internet sont d'ailleurs payées au :
 * _pay per clic_ 
 * _pay per mil_
 
-Dans la publicité, on utilise une mesure : le _top of mind_. C'est le classement, à quel niveau les gens placent la marque dans leur représentation personnelle, intime.
+Dans la publicité, on utilise une mesure : le _top of mind_. C'est le classement qui indique à quel niveau les gens placent la marque dans leur représentation personnelle, intime.
 
 On l'utilise:
 
 * avant la campagne de publicité
 * pendant, on mesure le nombre de vues "impressions"
-* et à nouveau après la campagn afin de voir quels ont été ses effets, cad si la marque   a monté des échelons dans le top of mind et/ou est apparu dans la représentation personnelles du public cible dans le cas dune nouvelle marque.
+* et à nouveau après la campagne afin de voir quels ont été les effets de cette dernière, cd si la marque   a monté des échelons dans le top of mind et/ou est apparu dans la représentation personnelles du public cible dans le cas dune nouvelle marque.
 
 La publicité adapte ses formats à des supports différents et se transmet via les technologies qui dominent selon l'époque (en géneral centralisées ou décentralisées): 
 
@@ -74,7 +61,7 @@ La publicité adapte ses formats à des supports différents et se transmet via 
 [Mad Men série télé](https://fr.wikipedia.org/wiki/Mad_Men)
 [Histoire de la publicité](https://fr.wikipedia.org/wiki/Histoire_de_la_publicit%C3%A9)
 
-## 2. Les Relations Publiques
+## 2. Les Relations Publiques (relecture en cours)
 
 Théorisé par [Edward Bernays](https://fr.wikipedia.org/wiki/Edward_Bernays) (neveu de S. Freud), les relations publiques constituent à manipuler les masses par l'intermédiaire du _gouvernement invisible_ (les gens influents, qui ont une réputation)
 
@@ -83,7 +70,7 @@ _œuvre_ : Propaganda [Propagande](https://fr.wikipedia.org/wiki/Propagande_(liv
 Au 18ieme siècle, il a l'idée que les masses sont ignorantes et incultes et qu'elles ont besoin de leaders pour les guider.
 On cible les leaders d'opinion, on créer des campagnes d'influence, on va voir les influenceurs et on les paye pour qu'ils parlent de la marque.
 
-## 3. Le Bouche-à-oreille OU Communication pair-à-pair
+## 3. Le Bouche-à-oreille OU Communication pair-à-pair (relecture en cours)
 
 A la difference de la Pub ou des Relations Publiques qui s appuient sur un relai dinformation entre un emetteur-marque et des recepteur-individus, le Bouche-a-oreille lui s'appuit sur des conversations de personnes à personnes (ou pair-a-pair ou p2p).
 
@@ -102,4 +89,4 @@ Il faut donc toujours vérifier les sources, surtout au sein d une plateforme ce
 **`Notre approche :`**
 
 * `Ne pas parler en tant que marque`
-* `parler de personnes à personnes en choisissant les 8% qui créent déjà du contenu authentique.`
+* `parler de personnes à personnes 
