@@ -19,7 +19,7 @@ canonifyurls = true
   bio = "Travailler, Apprendre, Vivre   libres ensemble à l'Ère des Internets"
   job = "COOPérative"
   location = "Bordeaux surtout, Londres et Madrid aussi"
-  picture = "https://cloud.aquilenet.fr/index.php/apps/gallery/s/9qFtPmKAWrgAsZL"
+  picture = "http://les-ethers-fertiles.art-e-toile.com/les-ethers-fertiles/web%20pic/Glitchatron_1525439000914.png"
 
 [[menu.main]]
   weight = 1

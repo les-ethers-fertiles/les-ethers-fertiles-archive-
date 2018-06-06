@@ -7,7 +7,7 @@ keywords:
 - javascript
 - hexo
 clearReading: true
-thumbnailImage: https://cloud.aquilenet.fr/index.php/apps/gallery/s/Go8dEpRqPF9EZ7c
+thumbnailImage: http://les-ethers-fertiles.art-e-toile.com/les-ethers-fertiles/web%20pic/dg.png
 thumbnailImagePosition: left
 autoThumbnailImage: yes
 metaAlignment: center
@@ -20,7 +20,7 @@ showDate: true
 
 *En remerciement à toute l'équipe de Django Girls Bordeaux !*
 
-![l'évènement](https://cloud.aquilenet.fr/index.php/apps/gallery/s/5wteRkDBpaio5pz)
+![l'évènement](http://les-ethers-fertiles.art-e-toile.com/les-ethers-fertiles/web%20pic/evenement.jpg)
 
 Interview Habib/Sophie: 
 
@@ -75,7 +75,7 @@ le tout en îlots de 3 participantes avec 1 coach. Un espace ravitaillement trè
 -S: Non, c'était la première fois. C'était chouette d'être toutes réunies pour le même but.
 Mon coach Alexandre était super génial, à l'écoute. On a disgressé sur plein d'autres choses au-delà du tutoriel pour  mieux comprendre le contexte, les tenants et aboutissants. Des noms de domaines, à l'html/css, tous ces cocnepts qui étaient assez flous pour moi et qui sont devenus tangibles. Je venais aussi là pour ca. Avoir quelqu'un qui clarifie, en me faisant des dessins, en expliquant par des images... Sans  être limité dans les questions: "on parle du tuto et c'est tout!" 
 
-![serveur](https://cloud.aquilenet.fr/index.php/apps/gallery/s/CRYaMRiET2mbg3m)
+![serveur](http://les-ethers-fertiles.art-e-toile.com/les-ethers-fertiles/web%20pic/envvirtuel.jpg)
 *merci à Alexandre pour ces superbes illustrations et ce coup de crayon qui ont éclairé nos âmes en détresses!*
 
 #### -H: Et maintenant quoi?

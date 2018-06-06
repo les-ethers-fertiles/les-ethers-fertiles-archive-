@@ -7,7 +7,7 @@ keywords:
 - javascript
 - hexo
 clearReading: true
-thumbnailImage: https://cloud.aquilenet.fr/index.php/apps/gallery/s/P9FwPfbqkwRWf5z
+thumbnailImage: http://les-ethers-fertiles.art-e-toile.com/les-ethers-fertiles/web%20pic/logo-lasindias.png
 thumbnailImagePosition: left
 autoThumbnailImage: yes
 metaAlignment: center

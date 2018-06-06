@@ -6,7 +6,7 @@ keywords:
 - javascript
 - hexo
 clearReading: true
-thumbnailImage: https://cloud.aquilenet.fr/index.php/apps/gallery/s/tq2725jqoLmrQxj
+thumbnailImage: http://les-ethers-fertiles.art-e-toile.com/les-ethers-fertiles/web%20pic/datavisions.jpg
 thumbnailImagePosition: left
 autoThumbnailImage: yes
 metaAlignment: center

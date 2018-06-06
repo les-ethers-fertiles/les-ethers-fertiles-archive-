@@ -1,7 +1,20 @@
 ---
 title: 'Les tables GrOndes [radio #00]'
 date: 2018-02-02T17:18:06.000Z
-thumbnail: /images/uploads/table-ronde.jpeg
+disqusIdentifier: fdsF34ff34
+keywords:
+- javascript
+- hexo
+clearReading: true
+thumbnailImage: http://les-ethers-fertiles.art-e-toile.com/les-ethers-fertiles/web%20pic/table-ronde.jpeg
+thumbnailImagePosition: left
+autoThumbnailImage: yes
+metaAlignment: center
+comments: true
+showTags: true
+showPagination: true
+showSocial: true
+showDate: true
 ---
 Dans l’agitée ambiance de l’Ouest, en cet an +21 de l’Ère des Internets,\
 On entend parfois des cordées de voix crier en choeur:\
